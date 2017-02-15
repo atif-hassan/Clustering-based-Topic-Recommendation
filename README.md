@@ -10,8 +10,8 @@ Each stream branch at any institute has a vast number of subjects to offer which
 Clustering methods require inter-cluster distance to be maximum while minimizing intra-cluster distance. In general K-means is a popular partitional clustering algorithm which aims for the same objective. The problem with random center cluster initialization for this particular problem is that if any topics which are closely similar to each other are chosen as centroids, then the resulting clusters become redundant or insignificant. We require a method wherein the K centroids chosen are topics which are of least similarity.
 Given a set of objects, first we need to identify a similarity measure as the basis of our clustering. For this particular problem, subjects can be distinguished from one another using the topics, sub-topics and their description that are present within them. Working with non-numeric data requires their conversion into meaningful numeric values. So, once the collected data for each subject was pre-processed, tf-idf was applied which yielded high dimensional vectors. Using cosine-similarity, the topics furthest away from each other and the rest of the data were selected as the starting points. Each vector corresponding to their respective topics were then put into the closest matching cluster. After the clustering was done, which required only one iteration over the entire dataset, the topics which best represent their respective clusters were chosen and then recommended.
 
-# METHODS:
-# Dataset:
+    # METHODS:
+Dataset:
 26 topics from both Computer Science and Engineering along with Electronics and Communication Engineering departments were taken separately for clustering. The similarity measure chosen was the syllabus, taken from IIT Kgp’s Website itself for each topic from both streams as the syllabus consists of topics, sub topics and their description which easily allows the subjects to be distinguished from one another.
 
 # Pre-processing:
