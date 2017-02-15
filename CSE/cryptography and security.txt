@@ -1,0 +1,5 @@
+Security trends Attacks and services Classical crypto systems Different types of ciphers LFSR sequences Basic Number theory Congruences Chinese Remainder theorem Modular exponentiation Fermat and Euler's theorem Legendre and Jacobi symbols Finite fields continued fractions.
+Simple DES Differential cryptoanalysis DES Modes of operation Triple DES AES RC4 RSA Attacks Primality test factoring.
+Discrete Logarithms Computing discrete logs Diffie-Hellman key exchange ElGamal Public key cryptosystems Hash functions Secure Hash Birthday attacks MD5 Digital signatures RSA ElGamal DSA.
+Authentication applications Kerberos, X.509, PKI Electronic Mail security PGP, S/MIME IP security Web Security SSL, TLS, SET.
+System security Intruders Malicious software viruses Firewalls Security Standards.

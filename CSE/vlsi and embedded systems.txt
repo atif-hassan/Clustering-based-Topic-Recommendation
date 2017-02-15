@@ -1,0 +1,34 @@
+Review of Microelectronics and Introduction to MOS Technologies:
+MOS, CMOS, BiCMOS Technology.
+Basic Electrical Properties of MOS, CMOS & BiCMOS Circuits: Ids – Vds relationships, Threshold
+Voltage VT, Gm, Gds and wo, Pass Transistor, MOS, CMOS & Bi CMOS Inverters, Zpu/Zpd, MOS
+Transistor circuit model, Latch-up in CMOS circuits.
+Layout Design and Tools:
+Transistor structures, Wires and Vias, Scalable Design rules, Layout Design tools.
+Logic Gates & Layouts:
+Static Complementary Gates, Switch Logic, Alternative Gate circuits, Low power gates, Resistive and
+Inductive interconnect delays.
+Combinational Logic Networks:
+Layouts, Simulation, Network delay, Interconnect design, Power optimization, Switch logic networks,
+Gate and Network testing.
+Sequential Systems:
+Memory cells and Arrays, Clocking disciplines, Design, Power optimization, Design validation and
+testing.
+Floor planning methods, Global Interconnect, Floor Plan Design, Off-chip connections
+Introduction to Embedded Systems
+Definition of Embedded System, Embedded Systems Vs General Computing Systems, History of
+Embedded Systems, Classification, Major Application Areas, Purpose of Embedded Systems,
+Characteristics and Quality Attributes of Embedded Systems.
+Core of the Embedded System: General Purpose and Domain Specific Processors, ASICs, PLDs,
+Commercial Off-The-Shelf Components (COTS), Memory: ROM, RAM, Memory according to the
+type of Interface, Memory Shadowing, Memory selection for Embedded Systems, Sensors and
+Actuators, Communication Interface: Onboard and External Communication Interfaces.
+Embedded Firmware:
+Reset Circuit, Brown-out Protection Circuit, Oscillator Unit, Real Time Clock, Watchdog Timer,
+Embedded Firmware Design Approaches and Development Languages.
+RTOS Based Embedded System Design:
+Operating System Basics, Types of Operating Systems, Tasks, Process and Threads,
+Multiprocessing and Multitasking, Task Scheduling.
+Task Communication: Shared Memory, Message Passing, Remote Procedure Call and Sockets,
+Task Synchronization: Task Communication/Synchronization Issues, Task Synchronization
+Techniques, Device Drivers, How to Choose an RTOS

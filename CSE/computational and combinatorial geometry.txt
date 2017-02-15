@@ -1,0 +1,19 @@
+Geometric Fundamentals: Models of computation, lower bound techniques, geometric primitives, geometric
+transforms
+Convex hulls: Planar convex hulls, higher dimensional convex hulls, randomized, output-sensitive, and
+dynamic algorithms, applications of convex hull
+Intersection detection: segment intersection, line sweep, map overlay, halfspace intersection, polyhedra
+intersection
+Geometric searching: segment, interval, and priority-search trees, point location, persistent data structure,
+fractional cascading, range searching, nearest-neighbor searching
+Proximity problems: closest pair, Voronoi diagram, Delaunay triangulation and their subgraphs, spanners,
+well separated pair decomposition
+Arrangements: Arrangements of lines and hyperplanes, sweep-line and incremental algorithms, lower
+envelopes, levels, and zones, applications of arrangements
+Triangulations: monotone and simple polygon triangulations, point-set triangulations, optimization
+criteria, Steiner triangulation, Delaunay refinement
+Geometric sampling: random sampling and nets, approximation and discrepancy, cuttings, coresets
+Geometric optimization: linear programming, LP-type problems, parametric searching, approximation
+techniques
+Robust geometric computation: perturbation techniques, floating-point filters, rounding techniques
+Fundamental theorems: Radon’s theorem, Helly’s theorem. Geometric graphs: proximity graphs, geometric results on planar graphs. Geometric incidences: incidence bounds using cuttings technique, crossing lemma. Distance based problems: bounds on repeated distances and distinct distances. Epsilon nets: Epsilon net theorem using random sampling and discrepency theory, epsilon nets for simple geometric spaces, weak epsilon nets

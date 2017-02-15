@@ -1,0 +1,106 @@
+Sensors and Interface Electronics
+Measurements and Instrumentation
+Renewable Energy Systems
+Power System Restructuring
+Dynamic Systems Estimation and Control
+Testing of Analog and Mixed Signal VLSI Systems
+Microgrid Operation
+Power System Operation and Control
+Wind Electrical Systems
+Power and Energy Systems
+Switched Mode Power Supplies
+Machine Drives
+Medium voltage converter with high frequency isolation
+Controller Design
+Model Order Reduction
+Power Systems Control
+Genetic Algorithm Applications
+Electric Machines
+Sensorless and Fault Tolerant Control of Industrial Drives
+Power Electronics
+Machine Learning for Healthcare applications
+Medical Signal Processing
+Control Systems
+DC Power Management
+Embedded Control Systems
+Fault Diagnostics and Prognostics
+Fault Diagnosis of Analog and Mixed Signal Circuit Bio-reactor design and Instrumentation
+Power Converters and Machine Drives
+Control Systems
+Computational Intelligence
+Fractional Order Circuits and Systems
+Capacitive Sensors and MEMS
+Control Allocation
+Industrial Instrumentation Control and Automation
+Aerospace Tracking Control and Guidance
+Modeling Estimation and Control of Switching Circuits and systems
+Computational Intelligence in Control Systems
+Orthogonal Functions Applications in Control Systems
+Robust Stabilization
+Time-Delay System
+Decentralized Control and State Estimation
+Power System Dynamics
+Grid Integration of Wind Power
+HVDC Transmission and FACTS controllers
+Digital Control of Power Converters
+Soft-switched DC-DC converters
+Smart Grid
+Cognitive Modelling and Human Monitoring
+Control Systems and Instrumentation Engineering
+Robust Control
+Nonlinear Control
+Magnetic Levitation
+High Performance Boundary Control in DC Nano-grid
+Energy Efficient Ultra-fast Power Supply for LED Driving
+Control Systems
+Electric Power Distribution System.
+Intelligent Control
+Failure Diagnostics Prognostics and Tolerance for Vehicular and Industrial Systems
+Grid integration of renewable sources
+Electrical Machines and Drives
+Embedded Systems Design for Real Time Signal and Image Processing
+Data Driven Diagnostics and Prognostics
+Validation of Cyber Physical Systems
+Signal Processing
+Optoelectronics and Optical Imaging
+Renewable Energy Systems
+Integrated Vehicle Health Management (IVHM)
+Robust Control
+Analog and Mixed Signal VLSI Design
+Network Control Systems
+Neural Networks
+Fault Diagnosis
+Power converter topology and control for HVDC and FACTS
+Electrical Energy Systems
+Computational Medical Imaging
+Machine Learning
+Image and Multidimensional Signal Processing
+Visualization and Augmented Reality
+Electric and Hybrid Vehicles
+Modular Multilevel Converters
+Voltage Source Converter Based Multi-Terminal HVDC Grid
+STACOM
+Integration of Renewable Energy with the Grid
+Modulation Methods of Voltage Source Converters
+High Performance AC Machine Drives
+Multivariable Control Systems
+Periodic control
+Robust control
+Smart Grid
+Power System Protection
+Renewable Energy
+Sensor Design
+Development of Instrumentation System
+Study of Fractional Order Systems
+Computer Vision
+Medical Image Informatics
+Machine Learning
+Micro Grid Studies
+Power Systems
+Biomedical Electronic Systems
+Biomedical Engineering
+Solar Power Converters
+Microgrid
+High-bandwdith Digital Power for Envelope Tracking Power Amplifiers
+Digital Power Management Architecures for DVS-eanbled Processors
+High Performance Embedded Control in Switched Mode Power System

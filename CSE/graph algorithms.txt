@@ -1,0 +1,17 @@
+Web crawler case study. PageRank algorithm. DFS, BFS, Tarjan's algorithm for strongly connected components. Representation of graphs.
+Software call graph visualization case study. DAGs, topological ordering, transitive closure, and transitive reduction. Layered graph drawing and the Coffman-Graham algorithm.
+Road map path planning case study. Shortest paths, relaxation algorithms, Dijkstra's algorithm, Bellman-Ford algorithm, Johnson's algorithm.
+A* algorithm, Euclidean distance based distance estimation, landmark-based distance estimation.
+Baseball elimination case study. Maximum flow problem, minimum cut problem, max-flow min-cut theorem, augmenting path (Ford-Fulkerson) algorithm.
+Maze and river network simulation via invasion percolation case study. Minimum spanning trees, Prim-Dijkstra-Jarnik algorithm, Boruvka's algorithm, Kruskal's algorithm.
+Transportation scheduling case study. Euler tours. Travelling salesman problem.
+exponential-time dynamic programming for the TSP, approximation algorithms and the approximation ratio, MST-doubling heuristic, Christofides' heuristic.
+Medical school residency assignment case study. Matchings, stable marriage, Gale-Shapley algorithm for stable marriage.
+Bipartite graphs, formulating bipartite maximum matching as a flow problem, using matchings to find vertex covers, partition into a minimum number of rectangles.
+Social network analysis case study. Social network properties: sparsity, small world property, power laws. Barabási-Albert model.
+Clustering coefficient, degeneracy and k-cores, h-index based dynamic triangle counting algorithm.
+Cliques, Moon-Moser bound on maximal cliques, Bron-Kerbosch algorithm.
+Register allocation case study. Graph coloring, greedy coloring, interval graphs, and perfect graphs.
+Chordal graphs and using Lexicographic breadth-first search to find an elimination ordering.
+Planar graphs; review of planarity-related topics from earlier weeks (graph drawing, road maps, invasion percolation via minimum spanning trees of grid graphs, graph coloring and the four-color theorem).
+Duality, duality of Euler tours and bipartiteness, Euler's formula, greedy 6-coloring, Boruvka in linear time. Planarity testing, Fáry's theorem and Schnyder's straight-line embedding algorithm.

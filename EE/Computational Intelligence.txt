@@ -1,0 +1,27 @@
+Fuzzy Logic
+Neural Networks
+Neuro-Fuzzy Systems
+Genetic Algorithms
+Green Computing
+Computational Data Mining
+Computational Web Intelligence
+Biomedical Informatics
+Learning in NN
+The Perceptron Convergence Theorem
+Multi-Layer Perceptron
+Training, Testing, and Validation
+Data Pre-Processing, Regression, Universal Approximation, Classification, Time-Series Prediction
+Unsupervised Learning: k-Means, LVP, SOM
+Evolutionary Learning, Genetic Algorithms
+Genetic Algorithms, The Fundamental Theorem of Genetic Algorithms
+Dimensionality Reduction & Feature Selection
+Dimensionality Reduction: PCA
+Radial Basis Function Network
+Support Vector Machines (SVM)
+LIBSVM
+Swarm Intelligence & Ant Colony Optimization
+Optimization and Search, Levenberg-Marquardt, Simulated Annealing
+Probability and Learning: Naive Bayes,, EM Algorithm, k-Nearest Neighbor
+Fuzzy Systems
+Hybrid Intelligent Systems, Expert Systems, Neuro-Fuzzy Systems
+Associative Memories: Hopfield NN & Boltzmann Machine

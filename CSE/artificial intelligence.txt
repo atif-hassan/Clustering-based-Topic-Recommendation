@@ -1,0 +1,50 @@
+Machine learning
+Linear classification
+Loss minimization
+Stochastic gradient descent
+Features and non-linearity
+Neural networks, nearest neighbors
+Generalization
+Unsupervised learning, K-means
+Search
+Tree search
+Dynamic programming, uniform cost search
+A*, consistent heuristics
+Relaxation
+Markov decision processes
+Policy evaluation, policy improvement
+Policy iteration, value iteration
+Reinforcement learning
+Monte Carlo, SARSA, Q-learning
+Exploration/exploitation, function approximation
+Game Playing
+Minimax, expectimax
+Evaluation functions
+Alpha-beta pruning
+TD learning
+Game theory
+Constraint satisfaction problems
+Factor graphs
+Backtracking search
+Dynamic ordering, arc consistency
+Beam search, local search
+Conditional independence, variable elimination
+Bayesian networks
+Bayesian inference
+Marginal independence
+Hidden Markov models
+Forward-backward
+Gibbs sampling
+Particle filtering
+Learning Bayesian networks
+Laplace smoothing
+Expectation Maximization
+Logic
+Syntax versus semantics
+Propositional logic
+Horn clauses
+First-order logic
+Resolution
+Higher-order logics
+Markov logic
+Semantic parsing

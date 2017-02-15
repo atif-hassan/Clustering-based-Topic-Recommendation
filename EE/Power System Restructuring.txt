@@ -1,0 +1,336 @@
+Introduction to restructuring of power industry
+Introduction : Reasons for restructuring / deregulation of power industry
+Understanding the restructuring process : 
+Entities involved
+The levels of competition
+The market place mechanisms
+Sector-wise major changes required
+Introduction to issues involved in deregulation
+Reasons and objectives of deregulation of various power systems across the world
+The US
+The UK
+The Nordic Pool
+The developing countries
+Fundamentals of Economics
+Consumer behaviour
+Total utility and marginal utility
+Law of diminishing marginal utility
+Consumer surplus
+Consumer equilibrium
+Market demand curve
+Demand elasticity
+Supplier behaviour
+Law of diminishing marginal product
+Supply functions
+Supplier equilibrium
+Supplier surplus
+Supplier elasticity
+Market equilibrium
+Global welfare
+Deadweight loss
+Short-run and Long-run costs
+Various costs of production
+Total cost (TC)
+Average fixed cost (AFC)
+Average variable cost (AVC)
+Average cost (AC)
+Marginal cost (MC)
+Relationship between short-run and long-run average costs
+Perfectly competitive market
+The firm's supply decision under perfect competition
+The Philosophy of Market Models
+Market models based on contractual arrangements
+Monopoly model
+Single buyer model
+Wholesale competition model
+Retail competition model
+Comparison of various market models
+Electricity vis-a-vis other commodities
+Distinguishing features of electricity as a commodity
+Four pillars of market design
+Imbalance
+Scheduling and Dispatch
+Congestion Management
+Ancillary Services
+Market architecture
+Timeline for various energy markets
+Bilateral / forward contracts
+The spot market
+Discriminatory or non-discriminatory pricing?
+Simple bids or complex bids
+Day-ahead and real-time market
+Models for trading arrangements
+Integrated or centralized model
+Decentralized model
+Comparison between trading arrangement models
+ISO or TSO model
+Transmission Congestion Management
+Definition of congestion
+Reasons for transfer capability limitation
+Importance of congestion management in deregulated environment
+Effects of congestion
+Desired features of congestion management schemes
+Classification of congestion management methods
+Basis for classification
+Non-market methods
+Market methods
+Calculation of ATC
+Definition of various terms
+ATC
+TTC
+TRM
+CBM
+ATC calculation using PTDF and LODF based on DC model
+DC Load flow model
+Power Transfer Distribution Factor (PTDF)
+Calculation of PTDF using DC model
+ATC calculation using PTDF
+Line Outage Distribution Factor (LODF)
+ATC calculation using PTDF and LODF
+Calculation of ATC using AC model
+Non-market methods
+Capacity allocation on first come first served basis
+Capacity allocation based on pro-rata methods
+Capacity allocation based on type of contract
+Market based methods
+Explicit auctioning
+Coordinated auctioning
+Nodal pricing
+OPF based congestion management
+DC OPF
+OPF with load elasticity
+AC OPF
+Interpretation of Lagrange multipliers
+Implications of nodal pricing
+Inter-zonal Intra-zonal congestion management
+Price area congestion management
+Algorithm
+Illustrative example
+Capacity alleviation method
+Re-dispatching
+Counter-trade
+Curtailment
+Comparison and conclusion
+Locational Marginal Prices (LMP) and Financial
+Transmission Rights (FTR)
+Mathematical preliminaries
+Convexity
+Duality
+Perturbation analysis
+Sensitivity analysis
+KKT necessary conditions for optimality
+Fundamentals of locational marginal pricing
+Concept
+Illustrative examples
+Generic formulation
+Lossless DCOPF model for LMP calculation
+Formulation
+LMP derivation
+Reference node independency
+Loss compensated DCOPF model for LMP calculation
+Formulation
+LMP derivation
+Reference node independency
+Accuracy comparison of both the models
+ACOPF model for LMP calculation
+Introduction to Financial Transmission Rights
+Risk Hedging Functionality Of financial Transmission Rights
+Simultaneous feasibility test and revenue adequacy
+FTR issuance process
+FTR auction
+Auction formulation
+Auction pricing
+Time differentiation of FTR products
+FTR allocation
+Direct allocation
+Auction revenue rights
+Treatment of revenue shortfall
+Secondary trading of FTRs
+Flow Gate rights
+FTR Vs FGR
+FTR and market power
+FTR and merchant transmission investment
+Summary
+Ancillary Service Management
+Introduction to ancillary services
+Types of ancillary services
+Classification of ancillary services
+Load-generation balancing related services
+Frequency regulation
+Load following
+Spinning reserve services
+Voltage control and reactive power support services
+Different sources of reactive power
+Generators
+Synchronous condensers
+Capacitors and inductors
+SVCs
+STATCOMs
+Comparison between different sources of reactive power
+Issues in reactive power management
+Black start capability service
+How to obtain ancillary services?
+Mandatory provision of ancillary services
+Markets for ancillary services
+Co-optimization of energy and reserve services
+International comparison
+England and Wales
+Nordic countries
+CAISO
+NYISO
+Loss of opportunity cost
+Australia
+Pricing of transmission network usage and loss allocation
+Introduction to transmission pricing
+What is power wheeling?
+Issues involved
+Principles of transmission pricing
+Classification of transmission pricing methods
+Rolled-in transmission pricing methods
+Postage stamp method
+Incremental postage stamp method
+Contract path method
+MW-Mile method
+Distance based
+Power flow based
+Power flow tracing
+Proportionate sharing principle
+Graph theoretic approach
+Simultaneous equations approach
+Equivalent bilateral exchange method
+Z bus cost allocation method
+Marginal transmission pricing paradigm
+Short-run marginal cost pricing
+Complementary charge
+Long-run marginal cost pricing
+Composite pricing paradigm
+Two part tariff
+Merits and de-merits of different paradigms
+Debated issues in transmission pricing
+Introduction to loss allocation
+Why loss allocation is contentious?
+Classification of loss allocation methods
+Pro-rata methods
+Incremental methods
+Power flow tracing based allocation
+Comparison between various methods
+Market power and generators bidding
+Attributes of a perfectly competitive market
+The firm's supply decision under perfect competition
+Imperfect competition
+Monopoly
+Oligopoly
+Cournot model
+Bertrand model
+Electricity markets under imperfect competition
+Market power
+Sources of market power
+Effect of market power
+Identifying market power
+HHI Index
+Entropy coefficient
+Lerner index
+Market power mitigation
+Effects of contract for differences
+Role of demand side bidding
+Financial markets associated with electricity markets
+Forwards
+Futures
+Options
+Swaps
+Introduction to optimal bidding by a generator company
+Bidding in real markets
+Optimal bidding methods
+Game theory
+Markov decision process
+Genetic algorithm
+Equilibrium analysis
+Conjectural variation
+Bayesian analysis
+US and European market evolution
+US markets
+Historical developments
+Market design philosophy
+Uniform market pricing model
+Zonal market pricing model
+The ERCOT market
+Market structure
+Bilateral market
+TCR market
+Ancillary service market
+Real time energy market
+ERCOT market design challenges
+Congestion management
+Revenue adequacy
+Inappropriate price signals
+Towards Standard Market Design (SMD)
+Need for SMD
+Defining characteristics of SMD
+Locational marginal prices (LMP)
+Multi-settlement system
+Day-ahead energy market
+Real-time market
+Virtual bidding
+Benefits of multi-settlement system
+Transmission rights market
+Ancillary service market
+Bilateral contracts
+PJM market
+Scheduling timeline
+Day-ahead energy market
+Real-time market
+Overview of real time LMP calculation
+Description of LMP model
+LMP calculation
+Settlements
+PJM market milestones
+The Nordic power market
+Earlier scenario
+Transition towards unified Nordic Power Market
+Various Markets in Nordic Pool
+The Market activity time-line
+Interaction between Market and System Operators
+The Nordic Spot Market
+Determination of System Price
+The Price Area Congestion Management Technique
+The Balancing Market
+System Operational Issues
+The Real Time Market
+The Imbalance Settlements
+The Congestion Management in Real Time
+Point-of-Connection Transmission Tariff
+Financial Markets
+Contract-for-Difference (CfD)
+Comparison of power markets
+Reforms in Indian power sector
+Framework of Indian power sector
+Historical Developments
+The Institutional Framework
+Operational Demarcation of the Power System
+National and Transnational Grids
+Reform initiatives during 1990-1995
+The Independent Power Plants
+Orissa Reform Model
+Accelerated Power Development and Reforms Program (APDRP)
+Public-Private Partnership
+Other Developments
+The availability based tariff (ABT)
+Why was ABT necessary?
+The Mechanism
+Working of the mechanism
+Effects of ABT
+Intra-state ABT
+The Electricity Act 2003
+Provisions in the generation sector
+Provisions in the transmission sector
+Provisions in the distribution sector
+Power trading
+Other important changes
+Open Access issues
+Operational Practices
+Transmission pricing
+Loss allocation
+Reservation of Transmission Capacity and Congestion Management
+Reactive power support
+Explanation of practices using illustrative example
+Power exchange : The auction. The congestion management. Administration of physical delivery. Timeline of activities. Reforms in near future :

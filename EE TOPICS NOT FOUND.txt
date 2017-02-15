@@ -1,0 +1,7 @@
+Medium voltage converter with high frequency isolation
+Model Order Reduction
+DC Power Management
+Fault Diagnostics and Prognostics
+Fault Diagnosis of Analog and Mixed Signal Circuit Bio-reactor design and Instrumentation
+Fractional Order Circuits and Systems
+Control Allocation

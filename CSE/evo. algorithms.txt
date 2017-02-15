@@ -1,0 +1,46 @@
+Artificial bee colony algorithm
+Artificial development
+Artificial immune system
+Bat algorithm
+Biogeography-based optimization
+Cellular evolutionary algorithm
+CMA-ES
+Computer-automated design
+Constructive cooperative coevolution
+Cuckoo search
+Cultural algorithm
+DarwinTunes
+Differential evolution
+Eagle strategy
+Effective fitness
+Evolution strategy
+Evolution window
+Evolutionary acquisition of neural topologies
+Evolutionary Algorithm for Landmark Detection
+Evolutionary art
+Evolutionary multimodal optimization
+Evolutionary music
+Evolutionary programming
+Evolved antenna
+Firefly algorithm
+Fitness approximation
+Gaussian adaptation
+Gene expression programming
+Genetic programming
+Genetic representation
+Grammatical evolution
+Harmony search
+HyperNEAT
+IPO underpricing algorithm
+Java Grammatical Evolution
+Learning classifier system
+Melomics
+Memetic algorithm
+Meta-optimization
+Natural evolution strategy
+Neuroevolution
+Neuroevolution of augmenting topologies
+Particle swarm optimization
+Promoter based genetic algorithm
+Reward-based selection
+Speciation (genetic algorithm)

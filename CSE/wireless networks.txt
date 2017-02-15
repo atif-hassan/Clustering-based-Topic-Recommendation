@@ -1,0 +1,12 @@
+multiple radio access : medium access alternatives: fixed-assignment for voice oriented networks random. access for data oriented networks , handoff and roaming support, security and privacy. wireless wans : first generation analog, second generation tdma – gsm, short messaging service in gsm, second generation cdma – is-95, gprs - third generation systems (wcdma/cdma 2000). wireless lans : introduction to wireless lans - ieee 802.11 wlan – architecture and services, physical layer- mac sublayer- mac management sublayer, other ieee 802.11 standards, hiperlan, wimax standard. adhoc and sensor networks : characteristics of manets, table-driven and source-initiated on demand routing protocols, hybrid protocols, wireless sensor networks- classification, mac and routing protocols. wireless mans and pans : wireless mans – physical and mac layer details, wireless pans – architecture of bluetooth systems, physical and mac layer details, standards.
+Overview of wireless communication networks and protocols
+The cellular concept: system design fundamentals
+Brief introduction to wireless physical layer fundamentals
+Multiple access control protocols for wireless systems
+Wireless networking (routing/rerouting, wireless TCP/IP)
+Mobility management
+Call admission control and resource allocation
+Revolution/evolution towards future generation wireless networks
+Overview of wireless mesh networks, mobile ad hoc networks and wireless sensor networks
+Wireless security
+Selected hot topics such as RFID

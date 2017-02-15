@@ -1,0 +1,46 @@
+Distributed Computing Introduction : Definition, Relation to parallel systems, synchronous vs
+asynchronous execution, design issues and challenges A Model of Distributed Computatioms
+: A Model of distributed executions, Models of communication networks, Global state of
+distributed system, Models of process communication. Logical Time : Logical clocks, scalar
+time, vector time, Efficient implementation of vector clocks, Jard-Jourdan's adaptive
+technique, Matrix time, vrtual time, Physicla clock synchronization : NTP
+Global state and snapshot recording algorithms: System model, Snapshot algorithms for FIFO
+channels, Variations of Chandy-Lamport algorithm, Snapshot algorithms for non-FIFO
+channels, Snapshots in a causal deluvery system, Monitoring global state, Nececssary and
+sufficient conditions for consistent global snapshots, Finding consistent global snapshots in a
+distributed computation. Message ordering and group communication : Mesage ordering
+paradigms, Asynchronous execution with synchronous communication, Synchronous
+program order on an asynchronous system, Group communication, Causal order (CO), Total
+order, A nomenclature for multicast, Propagation trees for multicast, Classification of
+application-level multicast algorithms, Semantics of fault-tolerant group communication,
+Distributed multicast algorithms at the network layer.
+Termination detection : Introduction, System model of a distributed computation, Termination
+detection using distributed snapshots, Termination detection by weight throwing, A spanning-
+tree-based termination detection algorithm, Message-optimal termination detection,
+Termination detection in a very general distributed computing model, Termination detection in
+the atomic computation model, Termination detection in a faulty distributed system Distributed
+mutual exclusion algorithms: Preliminaries, Lamport’s algorithm, Ricart–Agrawala algorithm,
+Singhal’s dynamic information-structure algorithm, Lodha and Kshemkalyani’s fair mutual
+exclusion algorithm, Quorum-based mutual exclusion algorithms, Maekawa’s algorithm,
+Agarwal–El Abbadi quorum-based algorithm, Token-based algorithms, Suzuki–Kasami’s
+broadcast algorithm, Raymond’s tree-based algorithm,.Deadlock detection in distributed
+systems: Introduction, System model, Preliminaries, Models of deadlocks, Knapp’s
+classification of distributed deadlock detection algorithms, Mitchell and Merritt’s algorithm for
+the singleresource model, Chandy–Misra–Haas algorithm for the AND model, Chandy–Misra–
+Haas algorithm for the OR model, Kshemkalyani–Singhal algorithm for the P-out-of-Q model
+Distribued shared memory : Abstraction and advantages, Memory consistency models,
+Shared memory mutual exclusion, Wait-freedom, Register hierarchy and wait-free
+simulations, Wait-free atomic snapshots of shared objects Check pointing and rollback
+recovery : Introduction, Background and definitions, Issues in failure recovery, Checkpointbased
+recovery, Log-based rollback recovery, Koo–Toueg coordinated checkpointing
+algorithm, Juang–Venkatesan algorithm for asynchronous checkpointing and recovery,
+Manivannan–Singhal quasi-synchronous checkpointing algorithm, Peterson–Kearns
+algorithm based on vector time, Helary–Mostefaoui–Netzer–Raynal communication-induced
+protocolConsensus and agrrement algorithms : Problem definition, Overview of results,
+Agreement in a failure-free system (synchronous or asynchronous), Agreement in (messagepassing)
+synchronous systems with failures, Agreement in asynchronous message-passing
+systems with failures, Wait-free shared memory consensus in asynchronous systems Failure
+detectors : Introduction, Unreliable failure detectors, The consensus problem, Atomic
+broadcast, A solution to atomic broadcast, The weakest failure detectors to solve fundamental
+agreement problems, An implementation of a failure detector, An adaptive failure detection
+protocol.

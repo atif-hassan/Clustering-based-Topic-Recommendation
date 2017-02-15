@@ -1,0 +1,28 @@
+Machine Learning
+Review: Statistics, Linear Algebra, Optimization
+Supervised Techniques
+Basic Classification: Decision Trees, Nearest neighbor
+Application: Tumor Type Prediction
+Advanced Classification: Neural network, SVM, Ensemble
+Cognitive State detection
+Joint movement detection in Microsoft Kinect
+Basic Regression: Linear Regression, Nonlinear regression
+Application: Vital Sign Monitoring
+Probabilistic Approach
+Learning, Inference
+Logistic Regression, Bayesian Network
+Features
+Feature Selection: Filter-based, embedded, Wrapper
+Bioinformatics, fMRI data
+Unsupervised Techniques
+Dimensionality Reduction: Linear, Non-linear
+Application: drug discovery
+Cluster analysis: k-Means, DBSCAN, Hierarchical
+Gene Expression
+Frequent Itemset Mining
+Genome Wide Association (GWA)
+Graph Mining
+Medical Imaging
+Time Series Processing
+Preprocessing, Similarity measures, Motif Discovery
+ECG, EEG, accelerometer data

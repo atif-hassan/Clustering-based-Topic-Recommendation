@@ -1,0 +1,29 @@
+CONTROL SYSTEM MODELING : Basic Elements of Control System – Open loop and Closed loop systems – Differential equation – Transfer function, Modeling of Electric systems, Translational and rotational mechanical systems – Block diagram reduction Techniques – Signal flow graph.
+TIME RESPONSE ANALYSIS : Time response analysis – First Order Systems – Impulse and Step Response analysis of second order systems – Steady state errors – P, PI, PD and PID Compensation, Analysis using MATLAB
+FREQUENCY RESPONSE ANALYSIS : Frequency Response – Bode Plot, Polar Plot, Nyquist Plot – Frequency Domain specifications from the plots – Constant M and N Circles – Nichol’s Chart – Use of Nichol’s Chart in Control System Analysis. Series, Parallel, series-parallel Compensators – Lead, Lag, and Lead Lag Compensators, Analysis using MATLAB.
+STABILITY ANALYSIS : Stability, Routh-Hurwitz Criterion, Root Locus Technique, Construction of Root Locus, Stability, Dominant Poles, Application of Root Locus Diagram – Nyquist Stability Criterion – Relative Stability, Analysis using MATLAB
+STATE VARIABLE ANALYSIS & DIGITAL CONTROL SYSTEMS : State space representation of Continuous Time systems – State equations – Transfer function  from  State  Variable  Representation  –  Solutions  of  the  state  equations  – Concepts of Controllability and Observability – State space representation  for Discrete time systems. Sampled Data control systems – Sampling Theorem – Sample & Hold – Open loop & Closed loop sampled data systems.
+Review of Modeling and Analysis of LTI Systems:
+Modeling of physical Systems. Design specifications and performance indices, Motion control systems,
+Transportation lags. Approximation of time-delay functions., Sensitivity of control systems to parameter variations. Effects of
+disturbance of signals. Disturbance rejection.
+Analysis in state-space:
+A perspective on state-space design. State variables. State models for physical systems. SISO and MIMO systems. Solution of
+state equations. Transfer function. Eigenvalues and eigenvectors. Jacobian linearization technique. State transformations and
+diagonalisation. Transformation to phase-variable canonical form. Controllability and observability. Duality property. Stability.
+Introduction to Discrete-time Systems:
+Basic elements of discrete-time control system. Z-transform and properties. Inverse Z-transform. Difference equation and its
+solution by Z-transform method. Z-transfer function. State diagram of digital systems. Time delay. Direct, cascade and parallel
+decomposition of Z-transfer functions.
+Feedback control design:
+Continuous control design. Proportional, derivative and integral control action. PID controller tuning rules. Ziegler-Nichols
+method. Two degree of freedom control systems.
+Compensator design using Bode diagram in frequency response approach. Lag, Lead, Lag-lead compensator.
+Control law design for full state feedback by pole placement. Full order observer system. Observer based state feedback.
+Separation principal.
+Non linear system:
+Classification and types of non-linearity. Phenomena peculiar to non-linear systems. Methods of analysis. Linearization based
+on Taylor’s series expansion. Jacobian Linearization.
+Phase trajectory and its construction. Phase-plane analysis of linear and non-linear sustems. Existence of limit cycles.
+Describing function of typical non-linearities. Stability analysis by DF method. Introduction to DIDF. Popov’s circle criterion.
+Stability analysis by Lyapunov’s indirect and direct methods, Lypunov’s theorem

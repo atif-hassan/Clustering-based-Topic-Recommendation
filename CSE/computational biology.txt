@@ -1,0 +1,21 @@
+Biochemistry: Cell structure and function; Bio-molecular structure; Enzymes: basic concepts
+and kinetics, catalytic and regulatory strategies; Metabolism and regulation of carbohydrate;
+Fatty acids, amino acids, nucleic acids and Metabolic disorders.
+Microbiology: Classification of microorganisms; Growth and physiology; Microbial
+metabolism and Fermentation; Anaerobic respiration; Pathogenic microorganisms (bacteria,
+fungi, protozoa, and viruses); Host-pathogen interactions and Microbes in industry
+Molecular Biology and Genetics: Cell division; Central dogma of molecular biology; DNA
+as genetic material; Structure of DNA and RNA; Physical and chemical properties of nucleic
+acids; DNA super coiling; Basic techniques of molecular Biology; DNA damage and repair;
+DNA replication; Gene structure in prokaryotes and eukaryotes; DNA transcription and RNA
+processing; Genetic code and protein synthesis; Gene regulation; Post-translational
+modifications; Mutations and their role in Evolution; Population genetics and Genetic
+disorders
+Introduction to Bioinformatics: Biological databases; Sequence retrieval and analysis
+(NCBI & BLAST); Sequence alignment (pairwise and multiple sequence alignments);
+Construction of phylogenetic trees and Gene predictions, RNA and protein structure
+prediction
+Immunology: Basic immunology; Types of immunity; T-cells and B-cells; Antigen-antibody
+reaction; Antibody structure; T-cell receptors; Complement system; Autoimmunity; Hypersensitivity;
+Tissue and organ transplantation; MHC and HLA; Hybridoma technology;
+Immunity against infectious diseases; Vaccines and Immunodeficiency diseases. 

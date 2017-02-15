@@ -1,0 +1,14 @@
+Structure & components Industrial Automation systems. Architectural levels of Industrial controls.
+Actuators & sensors: Servomotors, Stepper motors, Process I/O systems. Local & remote I/O systems.
+Controllers: Different types of controllers, Single loop and Multiloop controllers and their tunning, Direct
+controllers and their tunning, Direct controllers and their tunning, Direct controllers and their tunning,
+Direct controllers and their tunning, Direct controllers and their tunning, Direct controllers and their
+tunning, Direct Digital Controllers, Software implementation of Multiloop Controllers. Distributed Control
+Systems.
+Sequence Control: Programmable Logic Controllers, Relay Ladder Logic, Programming.
+Supervisory Controllers: Functionally of Supervisory Control Level, Process Optimization, Recipe
+Management Material. Tracking. Man-machine interfaces.
+Process Operation Management Systems: Overview of process operation management systems, order,
+inventory management, process scheduling, quality management.
+Industrial Communication Systems: Characteristic features of industrial networks. Low level networks
+and their features, Field bus architecture. Performance aspects of Industrial Automation Systems

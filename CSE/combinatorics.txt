@@ -1,0 +1,3 @@
+Basics, Sets, Relations, Proof methods- Problem-solving strategies Mathematical Induction.
+COMINATORICS: Basics of counting-Combinations  and  Permutations-Enumeration of Combinations & Permutations without repetitions and without repetitions with constrained repetitions-Binomial Coefficients-Binomial and Multinomial theorems-Principle  of Inclusion- Exclusion
+RECURRENCE RELATIONS: Generating  Functions  of Sequences- Calculating Coefficients of Generating Functions- Recurrence Relations- Solving Recurrence Relations using Substitution and Generating    Functions-Method of Characteristic Roots-Solutions of homogeneous and inhomogeneous recurrence relations.

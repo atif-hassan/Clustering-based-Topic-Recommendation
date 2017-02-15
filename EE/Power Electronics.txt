@@ -1,0 +1,34 @@
+Switch Realization: Survey of power semiconductor devices, Power diode, SCR, GTO, LASCR, RCT, SITH, BJT, MOSFET,
+IGBT etc., Switching losses, driver circuits, protection, cooling, application .
+Controlled Rectifiers (Converters): Single Phase / Three Phase, Half wave / full wave, half controlled /fully controlled
+converters with R, RL and RLE loads, Continuous and discontinuous current operations- Evaluation of performance parameters.
+Effects of source inductance- Power factor improvement techniques - twelve pulse converters - Dual converters.
+DC- DC Converters: principle of operation of buck, boost, buck-boost, Cuk, fly back, forward, push-pull, half bridge, full
+bridge Converters with continuous and discontinuous operation, Input & output filter design, multi-output boost converters,
+diode rectifier based boost converters. State space analysis of regulators.
+Design: Design considerations: snubber circuit, driver circuit, temperature control and heat sink, materials, windings. Design of
+converter and chopper circuits. Triggering circuits for converter and choppers. MMF equations, magnetic. Design of
+transformers and inductors. 
+Page of 7 18
+Converter Dynamics / simulations: Feed back control for converters: regulation and control problem, control principles, model
+for feedback, P and PI control. Non linear dynamic modeling , Control and analysis of choppers, voltage mode and current
+mode control. Simulation: process, mechanics, techniques, PSPICE simulator.
+8EMI and Power Quality Problems. Power conditioning. PLL / Micro computer based converters and choppers
+Inverters: Single and three phase bridge inverters with R, RL and RLE loads, Voltage control, Harmonic reduction, square
+wave inverters, PWM inverters, modulation techniques, SPWM, Selective Harmonic Elimination PWM and delta modulation.
+blanking time. harmonic spectrum
+and comparison among different PWM techniques. Boost inverter. Current source inverters, Inverter Circuit Design .
+Resonant Pulse Converters: Series and parallel resonant inverters - zero current and Zero voltage switching resonant
+converters, frequency response. Two quadrant zero voltage switching resonant converters, Resonant dc link inverters, design and
+analysis, soft switching, load dependent problem.
+Multi level inverters: types, operations, features.
+Cycloconverters: Single phase and three phase cycloconverters with R, RL and RLE loads – Voltage control , Harmonic
+analysis, operation waveforms designs.
+AC voltage controllers: Single phase and three phase ac voltage controllers with R, RL and RLE loads, Voltage control,
+Harmonic analysis, operation waveforms PWM, Matrix converter, design. 
+Page of 12 18
+Dynamics of above converters: Modeling and control of inverters, resonant pulse converters, cyclo-converters, ac voltage
+controllers. Application of microcomputer .
+Design: Method for control design: averaging method, small signal analysis, linearization, challenge. Geometric control:
+hysteresis control, boundary control. Triggering circuit. Design of inverters, resonant pulse converters, cyclo-converters, ac
+voltage controllers circuits. PLL / Micro computer based inverters, cycloconverters, AC voltage controllers

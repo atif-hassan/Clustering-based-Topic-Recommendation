@@ -1,0 +1,46 @@
+Introduction to Power System Stability
+Power System Operation and Control.
+Stability Problems faced by Power Systems.
+Impact on Power System Operation and Control.
+Analysis of  Dynamical Systems
+Concept of Equilibria, Small and Large Disturbance Stability.
+Example: Single Machine Infinite Bus System.
+Modal Analysis of Linear Systems.
+Analysis using Numerical Integration Techniques.
+Issues in Modeling: Slow and Fast Transients, Stiff Systems.
+Modeling of a Synchronous Machine
+Physical Characteristics.
+Rotor Position Dependent model.
+D-Q Transformation.
+Model with Standard Parameters.
+Steady State Analysis of Synchronous Machine.
+Short Circuit Transient Analysis of a Synchronous Machine.
+Synchronous Machine Connected to Infinite Bus.
+Modeling of Excitation and Prime Mover Systems
+Physical Characteristics and Models.
+Control system components.
+Excitation System Controllers.
+Prime Mover Control Systems.
+Modeling of Transmission Lines and Loads
+Transmission Line Physical Characteristics.
+Transmission Line Modeling.
+Load Models - induction machine model.
+Other Subsystems - HVDC, protection systems.
+Stability Issues in Interconnected Power Systems
+Single Machine Infinite Bus System.
+Multi-machine Systems.
+Stability of Relative Motion.
+Frequency Stability: Centre of Inertia Motion.
+Concept of Load Sharing: Governors.
+Single Machine Load Bus System: Voltage Stability.
+Torsional Oscillations.
+Power System Stability Analysis Tools
+Transient Stability Program.
+Small Signal Analysis Program.
+EMTP Programs.
+Real-Time Simulators.
+Enhancing System Stability
+Planning Measures.
+Stabilizing Controllers (Power System Stabilizers).
+Operational Measures- Preventive Control.
+Emergency Control.

@@ -1,0 +1,27 @@
+Asymptotic notations and their significance, introduction to RAM model of computation, complexity analysis of algorithms, worst case and average case.
+Basic introduction to algorithmic paradigms like divide and conquer, recursion, greedy, etc.
+Searching: binary search trees, balanced binary search trees, AVL trees and red-black trees, B-trees, skip lists, hashing. Priority queues, heaps, Interval trees, tries.
+Order statistics.
+Sorting: comparison based sorting - quick sort, heap sort, merge sort: worst and average case analysis. Decision tree model and (worst case) lower bound on sorting. Sorting in linear time - radix sort, bucket sort, counting sort, etc.
+String matching
+Graph Algorithms: BFS, DFS, connected components, topological sort, minimum spanning trees, shortest paths - single source and all pairs
+Models of computation: RAM model and its logarithmic cost.
+Formal introduction to algorithmic paradigms: divide and conquer, recursion, dynamic programming, greedy, branch and bound, etc.
+Advanced data structures: Fibonacci heap, union-find, splay trees.
+Amortized complexity analysis
+Randomized algorithms: Randomized algorithms to be introduced a bit early, i.e. before NP-completeness to highlight randomization as an algorithmic technique.
+Application areas
+Geometric algorithms: convex hulls, nearest neighbor, Voronoi diagram, etc.
+Algebraic and number-theoretic algorithms: FFT, primality testing, etc.
+Graph algorithms: network flows, matching, etc.
+Optimization techniques: linear programming
+Reducibility between problems and NP-completeness: discussion of different NP-complete problems like satisfiability, clique, vertex cover, independent set, Hamiltonian cycle, TSP, knapsack, set cover, bin packing, etc.
+Backtracking, branch and bound
+Approximation algorithms: Constant ratio approximation algorithms.
+Miscellaneous: Introduction to external memory algorithms, parallel algorithms.
+Parallel Models (SIMD, MIMD, PRAMs, Interconnection Networks); Performance Measures (Time, Processors, Space, Work); Interconnection Architectures (Linear Array, Meshes, Trees, Mesh of Trees, Hypercubes, Butterfly Networks, Cube Connected Cycles, Benes Networks); Techniques (Balanced Trees, Pointer Jumping, Divide and Conquer, Partitioning, Pipelining, Systolic Computation, Accelerated Cascading, Prefix Computation, List Ranking, Euler Tour, Tree Contraction); Sorting, Searching, Merging; Matrix Operations; Graph Algorithms (Connected Components, Spanning Trees, Shortest Paths); Complexity (Lower bounds, NC Class and P-Completeness).
+Algorithmic paradigms: Dynamic Programming, Greedy, Branch-and-bound; Asymptotic complexity, Amortized analysis; Graph Algorithms: Shortest paths, Flow networks; NP-completeness; Approximation algorithms; Randomized algorithms; Linear programming; Special topics: Geometric algorithms (range searching, convex hulls, segment intersections, closest pairs), Numerical algorithms (integer, matrix and polynomial multiplication, FFT, extended Euclid's algorithm, modular exponentiation, primality testing, cryptographic computations), Internet algorithms (text pattern matching, tries, information retrieval, data compression, Web caching).
+Models of computation and efficiency: Searching faster than O(log n), sorting faster than O(n log n).
+Randomized algorithms in graphs and geometry: The impact of using randomization for designing algorithms that are simpler and often more efficient than the deterministic counterparts for several fundamental problems like MST, mincuts, spanners, convex hulls, triangulations, etc. Typically analysis is often harder than design.
+Approximation algorithms: A set of rapidly evolving techniques that lead to provable approximation guarantees for hard optimization problems within polynomial running times. Unlike other communities dealing with the same problems the emphasis here is on provability of general instances and goes hand-in-hand with the "hardness of approximation" theory.
+Fundamentals: Models of parallel and distributed computation, complexity measures; The PRAM Model: balancing, divide and conquer, parallel prefix computation, pointer jumping, symmetry breaking, list ranking, sorting and searching, graph algorithms, parallel complexity and complexity classes, lower bounds; Interconnection Networks: topologies (arrays and mesh networks, trees, systolic networks, hypercubes, butterfly) and fundamental algorithms, matrix algorithms, sorting, graph algorithms, routing, relationship with PRAM models; Asynchronous Parallel Computation; Distributed Algorithms: models and complexity measures, safety, liveness, termination, logical time and event ordering, global state and snapshot algorithms, mutual exclusion, clock synchronization, election, termination detection, routing, Distributed graph algorithms; Applications of Distributed algorithms.

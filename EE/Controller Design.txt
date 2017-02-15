@@ -1,0 +1,127 @@
+Modelling and Simulation of Dynamic Systems
+State variable Modelling of Continuous Dynamic Systems. Solution methods for
+Nonlinear Differential equations. Bond Graph Techniques. Simulation Software. Skeletal
+Structure of Simulation software. Packages and Scripting Techniques. Real-time
+simulation systems. Case studies. Qualitative Modelling.
+Control System Engineering
+Review of classical control theory: Stability margins, correlation of frequency domain and
+time domain parameters, design specifications, compensation of continuous systems,
+actuator selection and design.
+State variable modelling of linear continuous systems, controllability and observability.
+Concepts of linear sampled data systems: Discrete equivalents of continuous data systems,
+reconstruction of sampled signals, sample and 0 order holds, stability of linear sampled
+data systems.
+State variable modelling of linear discrete data systems, controllability and observability.
+Digital Control Theory
+Structure of a computer controlled system. Review of Z-transform. Computation of time
+response of Discrete Data system. Bilinear Transformation. W-plane, prewarping, inverse
+transformation. Design of discrete controllers. Z-domain compensation, w-plane
+compensation, state variable feed back, deadbeat controller sampled data version of PID
+controllers. Effect of Data Digitization. Effect of finite word size, limit cycle
+determination.
+Rockets and Missiles
+Classification of Rockets & Missiles, components, subsystems and layout, launching
+techniques, variation of air density with altitude, Indian Standard atmosphere.
+Motion of Rockets – external ballistics and powered motion:
+Equations of motion in point mass mode, static stability, motion about the CG, special
+case like exo-atmospheric, vertical ascent motion, tip-off, reentry.
+Elementary Missile Guidance Principles:
+2
+Guidance schemes, command guidance, proportional navigation, inertial sensors and
+auxiliaries, concept of quaternion, strapped down inertial navigation.
+Aerodynamics of Subsonic and supersonic vehicles:
+Drag coefficients, lift coefficients, wake and down wash effects, design consideration.
+The airframe – structural, functional and aerodynamic aspects:
+Control schemes: Aerodynamic, thrust vectoring, actuation systems.
+Propulsion systems:
+General considerations, thrust-time characteristics, ISP, solid propulsion systems
+(construction and subsystems, propellant types, composition and characteristics), liquid
+propulsion system (Construction and subsystems, propellant types, composition and
+characteristics, cryogenic propulsion systems), RamJet concepts, Nozzle design
+consideration.
+Computer Control of Industrial Processes
+Introduction to computer Control: Brief History, Advantages, different types and
+application areas, Direct Digital Control and Supervisory Control, SCADA, Embedded
+Controller.
+Example Processes: Standard SISO process, first order with delay Standard sensors and
+actuators. Simple MIMO process. Batch process, which require sequential control.
+Architecture of a Computer Control System: Generic architecture. Use of Context diagram
+and DFD for architectural description. Specific Examples
+Interfacing : Digital data transfer from peripherals, polling, interrupt, DMA. Interfacing
+considerations for field Input-output.
+Programmable Logic Controllers: Features functionalities and Architecture, Examples of
+programming and applications
+DDC controllers: Features functionalities and Architecture, Examples. DDC algorithms.
+Digital Implementation of Two term (PI, PD) and three term (PID) controller.
+Implementation of digital compensators. Model Based Control and their digital
+implementations.
+Distributed Control: Architecture, advantages. Communication for distributed control.
+Field Bus.
+Optimal and Robust Control
+Optimal Control Systems and Performance Indices. Optimal Control of linear systems
+with Quadratic Performance Index. Optimal State Regulator Design through Matrix Ricatti
+equation. Properties and Application of the Optimal Regulator. Linear Quadratic Gaussian
+(LQG) Control. State Estimator Design. System Design using State Estimators. Loop
+Transfer Recovery (LTR). Frequency Shaping. Robust Control Systems and System
+sensitivity. Uncertainty and Robustness. Structured and Unstructured uncertainty. Internal
+Stability. Kharitnov's methodology. Stability robustness and Performance robustness of
+Control Systems. Mu-Synthesis. Robust Tracking. H2 and H-infinity Control. H-Infinity
+Loop Shaping. Gap Metric. Linear Matrix Inequalities (LMI). Quantitative Feedback
+Theory (QFT).
+Nonlinear and Adaptive Control
+Nonlinear Control
+State-space representation of non-linear systems, Common nonlinearities and their origin,
+Examples of phase plane analysis for relay based control, Popov’s stability criterion, Local
+linearization, Jacobian and Lyapunov’s first theorem, Stability analysis by Lyapunov
+theory, Describing function method and Limit cycle, Feedback linearization, Sliding Mode
+Control, Concepts of observability for non-linear systems
+Adaptive Control
+Linear parametric model, Adaptive laws, Model reference adaptive control, Robustness in
+adaptive control, Adaptive control of nonlinear systems, Gain scheduling control
+Real Time Systems
+Overview of Real time systems.
+Definition, evolution, typology, structure and applications.
+Temporal Modelling and specification of real time systems.
+State diagram, finite automata model, petri-net, state chart and mode chart, Q-model,
+formal methods.
+Sequential and logic control.
+Ladder diagram, PLC programming, case studies in interlocking and sequence control.
+Hardware Components and Configuration of real time system.
+Interfacing systems for analog and digital I/O, programmable logic control system
+architecture, computer control system architecture, flight control systems, hardware-inloop
+simulation systems, distributed control architecture, reliability enhancement by
+redundancy.
+Real time Operating systems.
+Features, primary components.
+Structured design of real time systems.
+Data flow oriented method of analysis and design. Mode chart oriented methods.
+Development, integration and validation of real time systems.
+Special consideration for safety critical systems.
+Control and Guidance
+Handling Criteria of Piloted Aircraft.
+Motion of a Missile in 6 DOF.
+Euler angle and quaternion. Six DOF equation of motion, structure of 6 DOF
+simulation.
+Roll autopilot for missiles
+Equation of motion, transfer function, objective and structure.
+Lateral stabilisation of missiles.
+Equation of motion, transfer functions, structure and design of lateral missile
+autopilots.
+Pitch plane control of aircraft.
+Objectives, structure of stability augmentation systems, pitch demand, q-demand,
+n-demand and alpha demand FCS control systems.
+Lateral control of bank to turn vehicles.
+Goals and structure of lateral FCS, coordinated turn, roll lateral coupling, cross
+feed.
+Command guidance.
+Scheme, optical and microwave beam riding on board and components, block
+diagram, transfer function.
+Homing guidance.
+Proportional navigation, modified proportional navigation, engagement
+kinematics, effect of seeker dynamics, seeker and homing heads-tracking,
+stabilisation and filtering.
+Inertial navigation.
+Basic concepts, stabilised platform, strapped down INS, error analysis.
+Special control problems.
+Inertial coupling (TWD), high alpha coupling, canard control, moving wing
+control, structure control interaction

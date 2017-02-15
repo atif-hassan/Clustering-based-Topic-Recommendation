@@ -1,0 +1,204 @@
+DYNAMICS
+Basic concepts: Power system stability slates of operation and system security system dynamics problems system model analysis of steady State stability and transient stability, simplified representation of Excitation control.  .
+Modeling of synchronous machine: synchronous machine park's Transformation -Transformation of flux linkages, Transformation of stator voltage equations and rotor equations.
+Analysis of steady state performance, per unit quantities - Equivalent circuits of synchronous machine determination of parameters of equivalent circuits.
+Excitation system: Excitation system modeling, excitation systems block Diagram system representation by stale equation s.
+Dynamics of a synchronous generator connected to infinite bus: system model Synchronous machine model, stator equations rotor equations, Synchronous machine model with field circuit and with field circuit and one equivalent damper winding on q axis (model 1.1), calculation oflnitial conditions.
+Analysis of single machine system: small signal analysis with block diagram Representation characteristic equation and application of routh hurwitz criterion
+Synchronizing and damping torque analysis, small signal model State equations.
+Application of power system stabilizers: basic concepts in applying PSS, Control signals, structure and tuning of PSS, washout circuit, dynamic compensator analysis of single machine infinite bus system with and without PSS.
+HIGH VOLTAGE DX, TRANSMISSION
+HA'.D.C. Transmission: General considerations, Power Handling CapabiJities of HVDC Lines,
+Basic Conversion principles, static converter configuration.
+Static Power Converters: 3-pulse, 6-pu!se and 12-pulse converters, converter station and Terminal equipment, commutation process, Rectifier and inverter operation, equivalent circuit for converter -special features of converter transformers.
+Harmonics in HVDC Systems, Harmonic elimination, AC and DC filters.
+Control of HVDC Converters and systems: constant current, constant extinction angle and constani Ignition angle control- Individual phase control and equidistant firing angle control, DC power flow control.
+Interaction between MV AC and DC systems - Voltage interaction, Harmonic instability problems and DC power modulation.
+Multi-terminal DC links and systems; series, paral lei and series parallel systems, their operation and control.
+Transient over voltages in HVDC systems: Over voltages due to disturbances on DC side, ovsr voltages due to DC and AC side line faults
+Converter faults and protection in HVDC Systems: Converter faults, over current protection - valve group, and DC Jine protection. Over voltage protection of converters, surge arresters.
+ENERGY CONVERSION SYSTEMS
+Photo voltaic power generation .spectral distribution of energy in solar radiation, solar ceil configurations, voltage developed by solar cell, photo current and load current, practical soJar cell performance, commetetal photo voltaic systems, test specifications for pv systems, appiications of super conducting materials in electrical equipment systems.
+Principles of MHD power generation, ideal MHD generator performance, practical MHD generator,
+MHD technology.
+Wind Energy conversion: Power from wind, properties of air and wind, types of wind Turbines, operating characteristics.
+Tides and tidal power stations, modes of operation, tidal project examples, turbines and generators for tidal power generation. Wave energy conversion; properties of waves and power conteiit, vertex motion of Waves, device applications. Types of ocean thennal energy conversion systems Application of OTEC systems examples,
+Miscellaneous energy conversion systems: coal gasification and liquefaction, biomass conversion, geothennal energy, thenno electric energy conversion, principles of EMF generation, description of fuel cells
+Co-generation and energy storage, combined cycle co-generation, energy storage. Global energy position and environmental effects: energy units, global energy position..
+Types of fuel cells, HZ-02 Fuel cells, Application of fuel cells - Batteries, Description of batteries, Battery application for large power.
+Environmental effects of energy conversion systems, pollution from coal and preventive measures
+steam stations and pollution, pollution free energy systems,
+MICROPROCESSORS AND MICROCONTROLLERS
+8086/8088 processors: Introduction to 8086 Microprocessors, Architecture, Addressing modes,
+Instruction set, Register Organization, Assembler directives.
+Hard ware description; Pindiagram signal description min AND max modes, bus timing, ready AND
+wait states, 8086 based micro computing system.
+Special features AND Related Programming:  Stack structure of 80S6, Memory segmentation,
+Interrupts, ISR, NMI, MI and interrupt Programming, Macros.
+Advanced Microprocessors:  Intel 80386 programming model .memory paging,  Introduction to
+£0486, Introduction to Pentium Microprocessors and special Pentium pro features.
+Basic peripherals AND Their Interfacing:-Memory Interfacing (DRAM) PPI- Modes of operation of 8255 Jnterfacing to ADC AND DAC.
+Special Purpose of Programmable Peripheral Devices and Their interfacing :Programmable interval :iraer, 8253 , PIC B259A,display controller Programmable communication Interface S251.USART and Exercises.
+Microcontrollers : Introduction to Intel 8 bit AND 16 bit Microcontrollers, 8051- Architecture,
+Memory organization, Addressing Modes and exercises
+Hardware description of 8051: Instruction formats ,Instruction sets, interrupt Structure AND interrupt priorities, Port structures AND Operation linear counter Functions different Modes of Operation and Programming examples.
+HIGH VOLTAGE ENGINEERING AND INSULATION CO-ORDINATION
+Conduction and Breakdown in Gases:
+lonization process. Twonsend's current growth equation, current growth in the secondary processes,
+Twonsend's  criterion  for breakdown,   streamer  theory  of breakdown   in   gases,   Paschen  Jaw,
+breakdown in nun unifonn fields and corona discharge.
+Conduction, Breakdown in liquids and solids:
+Pure liquids and commercial liquids, conduction and breakdown in pure liquids, breakdown in solids
+dielectrics, Intrinsic breakdown, Electromechanical breakdown and ihennal breakdown.
+Generation of High Voltage and Currents:
+Generation of high D,C\ generation of high alternating voltages, generation of impulse voltages,
+generation of impulse currents, tripping and control of impulse generators
+Measurement of high voltage and currents:
+Measurement of high d,c. voltages, Measurement of high a.c, and impulse voltages,
+Measurement of high d,c. ax. and impulse currents. Calhoae Ray Oscilloscope for impulse voltage
+and current measurements.
+Testing of Materials and Apparatus
+Measurement of D.C. resistivity,  measurement of dielectric  constant and  loss  factor;  partial
+discharge measurements, testing of insulators, bushing, circuits breakers, transformers and surge
+divertors.
+Over Voltage Phenomenon Insulation Coordination:
+Causes of over voltage, lighting phenomenon, switching ovtr voltages and power frequency over
+voltages in power systems,
+Insulation Coordination:
+Principle of insulation coordination on high voltage and extra high voltage power systems.
+Gas insulated substations:
+Advantages of Gas Insulated Substations, Comparison of Gas Insulated substations and Air Insulated
+Substations, Design and Layout of Gas Insulated Substations, Description of Various components in
+GIS.
+VOLTAGE STABILITY
+Introduction to Voltage Stability
+Definitions: Voltage Stability" Voltage Collapse, Voltage Security; Physical relation indicating dependency of voltage on reactive power flow; Factors affecting Voltage collapse and instability; Previous cases of voltage collapse incidences.
+Graphical Analysis of Voltage Stability
+Comparison of Voltage and angular stability of the system; Graphical Methods describing voltage collapse phenomenon: P- V and Q- V curves; detailed description of voltage collapse phenomenon with the help of Q- V curves.
+Analysis of Voltage Stability
+Analysis of voltage stability on SMLB system: Analytical treatment and analysis.
+Voltage Stability Indices
+Voltage collapse proximity indicator; Determinant of Jacobin as proximity indicators; Voltage
+liability margm.
+Power System Loads
+Loads that influences voltage stability: Discharge lights, Induction Motor, Air-conditioning, heat
+pumps, electronic power supplies, OH lines and cables.
+Reactive Power Compensation
+Generation and Absorption of reactive power;  Series and Shunt compensation;  Synchronous condensers, SVC OL TC s; Booster Transformers-Unit - VII: Voltage Stability Margin Stabilty Margin: Compensated and'un-comensated systems.
+Voltage Security
+Definition; Voltage security; Methods to improve voltage stability and its practical aspects.
+OPERATION RESEARCH
+Linear Programming Problem:  Formulation - Graphical method - Simplex method - Artificial
+variable techniques - Big-M tune -phase methods
+Duality theorem - Dual simplex method - Sensitivity analysis - effect of changes in cost coefficients,
+Constraint constants, Addition/Deletion of variables AND constraints
+Transportation problem - formulation - Initial basic feasible solution methods - Northwest, Least
+cost AND Vogels methods, MODI optimization - Unbalanced AND degeneracy treatment
+Assignment problem - Formulation - Hungarian method - Variants of assignment problems,
+Sequencing problems - Flow shop sequencing - n jobsx2 machines sequencing - n jobsx3 machines
+sequencing Job-shop sequencing - 2 jobsxm machines sequencing - Graphical methods
+Game Theory - Introduction - Terminology - Saddle point games - with out Saddle point games -
+2x2 games, analytical method - 2\n and mx2 games - graphical method - dominance principle
+Dynamic programming - Bellman's principle of optimality - short route - capital investment -
+inventory allocation
+Non linear optimization - Single variable optimization problem - Unimodal function - Elimination
+methods - Fibinocci AND Golden reaction methods - Interpolation methods - Quadratic AND cubic
+interpolation method.
+Multi variable optimization problem - Direct research methods - Univariam method Pattern search
+methods - Powell's, Hook-Jeaves AND Rosen-brock's search method.
+Geometric programming - Polynomial - Arithmetic - Seametric inequality - Unconstrained G:P -
+Constraint G.P with:S; type constraint.
+Simulation: Definition - Types- steps- Simulation of simple electrical systems - Advantages and
+ANALYSIS OF POWER ELECTRONIC CONVERTERS
+Unit I Single Phase AC Voltage Controllers.
+Single phase AC voltage controllers with Resistive, Resistive-inductive and Resistive-inductive-induced e.m.f, loads - ac voltage controllers with PWM Control - Effects of source and load inductances _ Synchronous tap changers Applications - numerical problems.
+Unit H Three Phase AC Voltage Controllers.
+Three phase AC voltage controllers - Analysis of controllers with star and delta    Connected Resistive, Resistive-inductive loads - Effects of source and load Inductances - applications -numerical problems.
+H Cycloconvertors.
+Single phase to single phase eye 1 oconverters - analysis of midpoint and bridge Configurations -Three phase to three phase eye 1 oconverters - analysis of Midpoint and bridge configurations -Limitations - Advantages - Applications       - numerical problems.
+Single Phase Converters.
+Single phase converters - Half controlled and Fully controlled converters / Evaluation of input power factor and harmonic factor - continuous and Discontinuous load current - single phase dual converters - power factor Improvements - Extinction angle control- symmetrical angle controlPWM - single phase sinusoidal PWM - single phase series -converters Applications - Numerical problems.
+Three Phase Converters.
+Three phase converters - Half controlled and fully controlled converters Evaluation of input power factor and harmonic factor - continuous and    Discontinuous load current - three phase dual converters - power factor Improvements - three phase PWM - twelve pulse converters - applications Numerical problems.
+D.C to D.C. Converters-Analysis of step-down and step-up dc to dc converters with resistive and Resistive-inductive load^ -Switched mode regulators - Analysis of Buck Regulators - Boost regulators - buck and boost regulators - Cuk regulators Condition for continuous inductor current and capacitor voltage -comparison Of regulators -Multioutput boost converters - advantages - applications Numerical problems.
+Pulse Width Modulated inverters(single phase).
+Principle of operation - performance parameters - single phase bridge inverter voltage and current with resistive, inductive and Capacitive loads - Voltage control of single phase inverters - single PWM - Multiple PWM - sinusoidal PWM - modified PWM - phase displacement evaluation of output Control - Advanced modulation techniques for improved performance Trapezoidal, staircase, stepped, harmonic injection and delta modulation Advantage - application - numerical problems.
+Pulse Width Modulated inverters(three phase).
+Three phase inverters - analysis of 180 degree condition for output voltage And current with resistive, inductive loads - analysis of 120 degree Conduction - voltage control of three phase inverters - sinusoidal PWM Third Harmonic PWM - 60 degree PWM - space vector modulation -Comparison of PWM techniques - harmonic reductions - Current Source Inverter - variable d.c. link inverter - boost inverter - buck and boost inverter - inverter circuit design - advantages - applications - numerical problems.
+ENERGY CONVERSION SYSTEMS
+Photo voltaic power generation ,spectral distribution of energy in solar radiation, solar  cell configurations, voltage developed by solar cell, photo current and load current, practical solar cell performance, commercial photo voltaic systems,  test specifications for pv systems, applications of super conducting materials in electrical equipment systems.
+Principles of MHD power generation, ideal MHD generator performance, practical MHD generator, MHD technology.
+Wind Energy conversion: Power from wind, properties of air and wind, types of wind
+Turbines, operating characteristics.
+Tides and tidal power stations, modes of operation , tidal project examples, turbines and
+generators for  tidal power generation. Wave energy conversion: properties of waves and
+power content, vertex motion of Waves,   device applications. Types of ocean thermal
+energy conversion systems Application of OTEC systems examples,
+Miscellaneous energy conversion systems: coal gasification and liquefaction, biomass
+conversion, geothermal energy, thermo electric energy conversion, principles of EMF
+generation, description of fuel cells
+Co-generation and energy storage, combined cycle co-generation, energy storage. Global
+energy position and environmental effects: energy units, global energy  position..
+Types of fuel cells, H2-O2 Fuel cells, Application of fuel cells – Batteries, Description of
+batteries, Battery application for large power.
+Environmental effects of energy conversion systems, pollution from  coal and preventive
+measures steam stations and pollution, pollution free energy systems.
+RELIABILITY ENGINEERING
+Elements of probability theory
+Probability distributions : Random variables, density and distribution functions. Mathematical expectation. Binominal distribution, Poisson distribution, normal distribution, exponential distribution, Weibull distribution. 
+Definition of Reliability. Significance of the terms appearing in the definition.
+Component reliability, Hazard  rate, derivation of the reliability function in terms of the hazarad rate.  Hazard  models.
+Failures:  Causes of failures, types of failures ( early failures, chance failures and wear-out failues). Modes of failure.  Bath tub curve. Effect of preventive maintenance.  Measures of reliability: mean time to failure and mean time between failures.
+Reliability logic diagrams ( reliability block diagrams)
+Classification of engineering systems:    series, parallel, series-parallel, parallel-series and non-series-parallel configurations. Expressions for the reliability of the basic configurations.
+Reliability evaluation of Non-series-parallel configurations: minimal tie-set, minimal cut-set and decomposition methods. Deduction of the minimal cutsets from the minimal pathsets.
+Discrete Markov Chains:  General modelling concepts, stochastic transitional probability matrix, time dependent probability evaluation and limiting state probability evaluation.  Absorbing states.
+Continuous Markov Processes:  Modelling concepts,  State space diagrams, Stochastic Transitional Probability Matrix,  Evaluating limiting state Probabilities. 
+Reliability evaluation of repairable systems.
+Series systems, parallel systems with two and more than two components, Network reduction techniques.  Minimal cutset/failure mode approach.
+ENERGY AUDITING, CONSERVATION AND MANAGEMENT
+Basic principles of Energy audit
+Energy audit- definitions, concept, types of audit, energy index, cost index ,pie charts, Sankey diagrams, load profiles, Energy conservation schemes- Energy audit of industries- energy saving potential, energy audit of process industry, thermal power station, building energy audit
+Energy management
+Principles of energy management, organizing energy management program, initiating, planning, controlling, promoting, monitoring, reporting- Energy manger, Qualities and functions, language, Questionnaire - check list for top management
+Energy efficient  otors
+Energy efficient motors, factors affecting efficiency, loss distribution, constructional details, characteristics - variable speed, variable duty cycle systems, RMS hp- voltage van at ion-voltage unbalance- over motoring1-1 motor energy audit
+Power Factor Improvement, Lighting and energy instruments
+Power factor - methods of improvement, location of capacitors, Pf with non linear loads, effect of hannonics on p.f , p.f motor controllers - Good lighting system design and practice, lighting control .lighting energy audit - Energy Instruments- watt meter, data loggers, thermocouples, pyrometers,tux meters, tongue testers ,application of PLC's
+Economic aspects and analysis
+Economics Analysis-Depreciation Methods, time value of money, rate of return, present worth method, replacement analysis, life cycle costing analysis- Energy efficient motonj- calculation of simple payback method, net present worth method- Power factor correction, lighting - Applications of life cycle costing analysis, return on investment.
+Reference Books:
+Energy management by W.K. Murphy AND G- Mckay Butier worth, Heine mann publications. Energy management by Paulo1 Callaghan, Mc-graw Hill Book company-1 st edition, 1998 Energy efficient electric motors by John .C. Andreas, Marcel Dekkerlnc Ltd-2nd edition, Energy management hand book by W.C.Turner, John wiley and sons Energy management and good lighting practice: fuel efficiency- book let 12-EEO
+MICROPROCESSORS AND MICRO CONTROLLERS LAB
+LIST OF EXPERIMENTS
+Microprocessor 8086
+Introduction to MASM / T ASM
+Arithmetic operations: Multi byte addition, subtraction, Multiplication and Division, Signed and
+Unsigned Arithmetic operation. ASCI I - arithmetic.
+Logic operations: Shift and rotate - converting packed BCD to unpacked BCD, BCD to ASCII
+conversion.
+By using string operation and instruction prefix - Move block, reverse string, sorting, inserting,
+deleting, length of string, string comparison.
+Modular programming - Procedure, near and far implementation, recursion.
+DOSIBIOS programming - Reading key board (buffered with and without echo) - display
+characters, string.
+Interfacing to 8086
+8259 - interrupt controller
+8279 - keyboard / display
+S255 -PPI
+8251 -USART
+Stepper Motor
+Traffic light control
+GP1B (IEEE 488} Interface
+Numeric printer interface
+RTC interface
+AlDandD/A
+DMA interface
+FDC-EPROM Programmer Interface
+Microcontroller 8051
+Reading and writing on a parallel port
+Timer in different modes
+Serial communication implementation
+Understanding three memory areas of OO-FF (Programs using above areas) 5) ing external interrupts
+Programs using special instructions like SWAP, Bit/Byte, Set/ Reset etc.
+Program based on sort, Page, absolute addressing.

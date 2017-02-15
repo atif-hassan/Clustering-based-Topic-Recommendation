@@ -1,0 +1,16 @@
+Mathematics of networks
+Networks and their representation
+Weighted and directed networks
+The adjacency, Laplacian, and incidence matrices
+Degree, paths, components
+Independent paths, connectivity, and cut sets
+Measures and metrics
+Degree centrality, eigenvector centrality, katz centrality, PageRank
+Hubs and authorities, closeness centrality, betweenness centrality
+Transitivity, reciprocity, similarity, assortative mixing
+The large-scale structure of networks
+Components
+Motivation, different sources of network data, types of networks, tools for visualizing network data, review of graph theory basics.
+Structural properties of networks: Notions of centrality, cohesiveness of subgroups, roles and positions, structural equivalence, equitable partitions, stochastic block models.
+Cascading properties of networks: Information/influence diffusion on networks, maximizing influence spread, power law and heavy tail distributions, preferential attachment models, small world phenomenon.
+Mining Graphs: Community and cluster detection: random walks, spectral methods; link analysis for web mining.

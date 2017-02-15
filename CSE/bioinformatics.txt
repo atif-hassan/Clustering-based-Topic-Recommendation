@@ -1,0 +1,13 @@
+Definitions, Sequencing, Biological sequence/structure, Genome Projects, Pattern recognition an prediction, Folding problem, Sequence Analysis, Homology and Analogy.
+Protein Information Resources
+Biological databases, Primary sequence databases, Protein Sequence databases, Secondary databases, Protein pattern databases, and Structure classificationdatabases.
+Genome Information Resources
+DNA sequence databases, specialized genomic resources
+DNA Sequence analysis
+Importance of DNA analysis, Gene structure and DNA sequences, Features ofDNA sequence analysis, EST (Expressed Sequence Tag) searches, Gene hunting, Profile of a cell, EST analysis, Effects of EST data on DNA databases
+Pair wise alignment techniques
+Database searching, Alphabets and complexity, Algorithm and programs,Comparing two sequences, sub-sequences, Identity and similarity, The Dotplot, Local and global similarity, different alignment techniques, DynamicProgramming, Pair wise database searching.
+Multiple sequence alignment
+Definition and Goal, The consensus, computational complexity, Manual methods,Simultaneous methods, Progressive methods, Databases of Multiple alignmentsand searching
+Secondary database searching
+Importance and need of secondary database searches, secondary databasestructure and building a sequence search protocol

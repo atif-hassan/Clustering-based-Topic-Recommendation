@@ -1,0 +1,26 @@
+Biomedical Signals and Images
+ECG: Cardiac electrophysiology, relation of electrocardiogram (ECG) components to cardiac events, clinical applications. Guest lecture.
+Speech Signals: The source-filter model of speech production, spectrographic analysis of speech.
+Speech Coding: Analysis-synthesis systems, channel vocoders, linear prediction of speech, linear prediction vocoders.
+Imaging Modalities: Survey of major modalities for medical imaging: ultrasound, X-ray, CT, MRI, PET, and SPECT.
+MRI: Physics and signal processing for magnetic resonance imaging. Guest lecture.
+Surgical Applications: A survey of surgical applications of medical image processing. Guest lecture.
+Fundamentals of Deterministic Signal and Image Processing
+Data Acquisition: Sampling in time, aliasing, interpolation, and quantization.
+Digital Filtering: Difference equations, FIR and IIR filters, basic properties of discrete-time systems, convolution.
+DTFT: The discrete-time Fourier transform and its properties. FIR filter design using windows.
+DFT: The discrete Fourier transform and its properties, the fast Fourier transform (FFT), the overlap-save algorithm, digital filtering of continuous-time signals.
+Sampling Revisited: Sampling and aliasing in time and frequency, spectral analysis.
+Image processing I: Extension of filtering and Fourier methods to 2-D signals and systems.
+Image processing II: Interpolation, noise reduction methods, edge detection, homomorphic filtering.
+Probability and Random Signals
+PDFs: Introduction to random variables and probability density functions (PDFs).
+Classification: Bayes' rule, detection, statistical classification.
+Estimating PDFs: Practical techniques for estimating PDFs from real data.
+Random signals I: Time averages, ensemble averages, autocorrelation functions, crosscorrelation functions.
+Random signals II: Random signals and linear systems, power spectra, cross spectra, Wiener filters.
+Blind source separation: Use of principal component analysis (PCA) and independent component analysis (ICA) for filtering.
+Image Segmentation and Registration
+Image Segmentation: statistical classification, morphological operators, connected components.
+Image Registration I: Rigid and non-rigid transformations, objective functions.
+Image Registration II: Joint entropy, optimization methods.

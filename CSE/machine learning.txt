@@ -1,0 +1,27 @@
+Definition of learning systems. Goals and applications of machine learning. Aspects of developing a learning system: training data, concept representation, function approximation.
+Inductive Classification 
+The concept learning task. Concept learning as search through a hypothesis space. General-to-specific ordering of hypotheses. Finding maximally specific hypotheses. Version spaces and the candidate elimination algorithm. Learning conjunctive concepts. The importance of inductive bias.
+Decision Tree Learning 
+Representing concepts as decision trees. Recursive induction of decision trees. Picking the best splitting attribute: entropy and information gain. Searching for simple trees and computational complexity. Occam's razor. Overfitting, noisy data, and pruning.
+Ensemble Learning 
+Using committees of multiple hypotheses. Bagging, boosting, and DECORATE. Active learning with ensembles.
+Experimental Evaluation of Learning Algorithms 
+Measuring the accuracy of learned hypotheses. Comparing learning algorithms: cross-validation, learning curves, and statistical hypothesis testing.
+Computational Learning Theory 
+Models of learnability: learning in the limit; probably approximately correct (PAC) learning. Sample complexity: quantifying the number of examples needed to PAC learn. Computational complexity of training. Sample complexity for finite hypothesis spaces. PAC results for learning conjunctions, kDNF, and kCNF. Sample complexity for infinite hypothesis spaces, Vapnik-Chervonenkis dimension.
+Rule Learning: Propositional and First-Order 
+Translating decision trees into rules. Heuristic rule induction using separate and conquer and information gain. First-order Horn-clause induction (Inductive Logic Programming) and Foil. Learning recursive rules. Inverse resolution, Golem, and Progol.
+Artificial Neural Networks 
+Neurons and biological motivation. Linear threshold units. Perceptrons: representational limitation and gradient descent training. Multilayer networks and backpropagation. Hidden layers and constructing intermediate, distributed representations. Overfitting, learning network structure, recurrent networks.
+Support Vector Machines 
+Maximum margin linear separators. Quadractic programming solution to finding maximum margin separators. Kernels for learning non-linear functions.
+Bayesian Learning 
+and new on-line chapter. Probability theory and Bayes rule. Naive Bayes learning algorithm. Parameter smoothing. Generative vs. discriminative training. Logisitic regression. Bayes nets and Markov nets for representing dependencies.
+Instance-Based Learning 
+Constructing explicit generalizations versus comparing to past specific examples. k-Nearest-neighbor algorithm. Case-based learning.
+Text Classification 
+Bag of words representation. Vector space model and cosine similarity. Relevance feedback and Rocchio algorithm. Versions of nearest neighbor and Naive Bayes for text.
+Clustering and Unsupervised Learning 
+Learning from unclassified data. Clustering. Hierarchical Aglomerative Clustering. k-means partitional clustering. Expectation maximization (EM) for soft clustering. Semi-supervised learning with EM using labeled and unlabled data.
+Language Learning 
+Classification problems in language: word-sense disambiguation, sequence labeling. Hidden Markov models (HMM's). Veterbi algorithm for determining most-probable state sequences. Forward-backward EM algorithm for training the parameters of HMM's. Use of HMM's for speech recognition, part-of-speech tagging, and information extraction. Conditional random fields (CRF's). Probabilistic context-free grammars (PCFG). Parsing and learning with PCFGs. Lexicalized PCFGs.

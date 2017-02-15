@@ -1,0 +1,49 @@
+Characteristics of grey-level digital images
+Discrete sampling model.
+Quantisation.
+Noise processes.
+Image attributes.
+Segmentation
+Thresholding and thresholding algorithms.
+Performance evaluation and ROC analysis.
+Connected components labelling.
+Region growing and region adjacency graph (RAG).
+Split and merge algorithms.
+Image transformations
+Grey level transformations.
+Histogram equalization.
+Geometric transformations.
+Affine transformations.
+Polynomial warps.
+Morphological operation
+Erode and dilate as max and min operators on binary images.
+Open, close, thinning and other transforms.
+Medial axis transform.
+Introduction to grey-level morphology.
+Image filtering
+Fourier descriptors.
+Linear and non-linear filtering operations.
+Image convolutions.
+Separable convolutions.
+Sub-sampling and interpolation as convolution operations.
+FFeature characterisation
+Calculation of region properties.
+Moment features.
+Boundary coding line descriptors from boundary coding and from moments.
+Image search and multi-resolution algorithms.
+EEdge and corner detection
+Edge enhancement by differentiation.
+Effect of noise, edge detection and Canny implementation.
+Edge detector performance evaluation.
+Image structure tensor.
+Relationship to image auto-correlation.
+Characterisation and Harris corner detector.
+Colour images
+Representations of colour in digital images.
+Colour metrics.
+Pixel-wise (point) operations.
+Colour invariants and Finlayson colour constancy algorithm.
+TeTemplate matching and advanced topics
+Similarity and dissimilarity matching metrics.
+L2 metric and relationship to cross-correlation2D object detection, recognition, location. 
+Sub-pixel accuracy and performance evaluation.

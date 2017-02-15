@@ -1,0 +1,23 @@
+BASICS OF ENERGY CONVERSION IN DRIVES: General expression of stored magnetic
+energy, Concepts co energy and development of force/torque in single and doubly excited
+electro mechanical system, Determination of air gap mmf and per phase machine inductance using
+physical machine data, Voltage and torque equation of DC machine, Three phase symmetrical
+induction machine and salient pole synchronous machines in phase variable form, Switching and
+surge voltage transients in transformers.
+INTRODUCTION TO REFERENCE FRAME THEORY: Static and rotating reference frames,
+Transformation model relationships with static symmetrical three phase circuits, Application of
+reference frame theory to three phase symmetrical alternating current machines.State Space
+Modelling.
+DYNAMIC MODELS: Dynamic direct axis and quadrature axis model in arbitrarily rotating
+reference frames, Voltage and torque equations, Derivation of steady state phasor relationship from
+dynamic model, Comparison of generalized theory of rotating electrical machine and Kron’s primitive
+machine.
+DETERMINATION OF DYNAMIC EQUIVALENT CIRCUIT PARAMETERS:Standard and
+derived machine time constants, Analysis and dynamic modelling of two phase asymmetrical
+induction machine and single phase induction machine, Linearized and non-linearized analysis;
+Operation on harmonic supplies, Unbalanced operation of three-phase machine.
+PERMANENT MAGNET SYNCHRONOUS MACHINE: Trapezoidal and sinusoidal back emf
+type, Surface permanent magnet and interior permanent magnet machines, Construction, Operating
+principle and its characteristics, Dynamic modeling and self controlled operation of BLDC & PMSM.
+SWITCH RELUCTANCE MOTORS: Analysis and design trade off, Basic operating
+characteristics. Different control topologies of SRM

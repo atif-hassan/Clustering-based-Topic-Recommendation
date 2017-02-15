@@ -1,0 +1,23 @@
+Phase controlled rectifiers– Single phase half wave controlled rectifier with R, R-L, R-L
+with freewheeling diodes.Full wave controlled rectifier with various kind of loads. Half
+controlled and full controlled bridges with passive and active loads-Input line current
+harmonics and power factor-Inverter mode of operation.Three phase half wave
+controlled rectifier with R,R-L an R-L-E loads.Thre phase semi and full converters with
+RL and RLE loads.Input side current harmonics and power factor. Dual convertersCirculating
+current mode and Non circulating current mode.
+Module-II (12 hours)
+AC voltage regulators and DC Choppers-Types of ac voltage regulators-single phase
+full wave ac voltage controllers-single phase transformer tap changers-Multistep
+transformer tap changer. Three phase ac voltage regulators. Output performance
+analysis of type A chopper, four quadrant chopper operation.
+Module-III (14 hours)
+Switch-mode dc-ac inverters. Basic concepts, single phase inverters,push pull, half
+bridge and full bridge square wave inverters, Blanking time, Single pulse modulation of
+single phase square wave inverters,Multi pulse modulation-PWM principle, Sinusoidal
+PWM in single phase inverters,Choice of carrier frequency in SPWM,Spectral content in
+the output,Unipolar and Bipolar switching in SPWM-Maximum attainable dc
+voltage,Switch utilization, Reverse recovery problem and Carrier frequency
+selection,Output side filter requirements and filter design-Ripple in the inverter outputDC
+side current,Three phase inverters-Three phase square wavestepped wave
+inverters.Three phase SPWM inverters,Output filters,DC side current, Effect of blanking
+time on inverter output voltage.

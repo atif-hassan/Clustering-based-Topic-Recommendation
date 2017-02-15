@@ -1,0 +1,63 @@
+Logic
+Syntax
+Models, semantics
+Proof theory, soundness
+Completeness theorem
+Compactness & Lowenheim-Skolem theorems
+Foundations of mathematics
+Godel's incompleteness theorems
+ACL2 (Applied/Mechanized Logic)
+The ACL2 programming language
+Primitive data types
+Functions/macros
+Modeling systems
+List processing
+Modeling examples from hardware, software, and security
+The ACL2 logic
+Definitional principle
+The ACL2 ordinals and termination proofs
+Induction
+Hand Proofs
+Quantification & encapsulation
+Mechanization of ACL2
+Computation as proof
+Overview of the waterfall
+Overview of simplification
+Induction
+Theory of rewrite systems
+Confluence
+Termination
+Completion, including Knuth-Bendix completion
+Conditional rewriting
+Decision procedures
+Propositional logic
+Soundness & completeness
+If-normatization
+Davis/Putnam
+BDDs
+Linear arithmetic
+Combining decision procedures
+Nelson-Oppen and/or
+Shostak
+Reactive systems
+Transformational vs. reactive systems
+Safety and liveness
+Topological characterization
+Lattice theoretic
+Temporal logic
+Linear time
+Branching time
+Tarski-Knaster fixpoint theorem
+Mu-calculus
+Notions of correctness:
+Trace containment, equivalence
+Simulation, bisimulation
+Complexity/ Algorithms
+Model Checking
+Model checking the mu-calculus
+Symbolic model checking
+Tablaux method for CTL
+Abstraction
+Homomorphisms
+Conservative abstractions
+Abstract interpretation

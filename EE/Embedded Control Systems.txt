@@ -1,0 +1,21 @@
+EMBEDDED SYSTEM ORGANIZATION
+Embedded computing – characteristics of embedded computing applications – embedded
+system design challenges; Build process of Realtime Embedded system – Selection of
+processor; Memory; I/O devices-Rs-485, MODEM, Bus Communication system using I2C, CAN,
+USB buses, 8 bit –ISA, EISA bus;
+REAL-TIME OPERATING SYSTEM
+Introduction to RTOS; RTOS- Inter Process communication, Interrupt driven Input and Output -
+Nonmaskable interrupt, Software interrupt; Thread – Single, Multithread concept; Multitasking
+Semaphores.
+INTERFACE WITH COMMUNICATION PROTOCOL
+Design methodologies and tools – design flows – designing hardware and software Interface . –
+system integration; SPI, High speed data acquisition and interface-SPI read/write protocol, RTC
+interfacing and programming;
+DESIGN OF SOFTWARE FOR EMBEDDED CONTROL
+Software abstraction using Mealy-Moore FSM controller, Layered software development, Basic
+concepts of developing device driver – SCI – Software - interfacing & porting using standard C
+& C++ ; Functional and performance Debugging with benchmarking Real-time system software
+– Survey on basics of contemporary RTOS – VXWorks, UC/OS-II
+CASE STUDIES WITH EMBEDDED CONTROLLER
+Programmable interface with A/D & D/A interface; Digital voltmeter, control- Robot system; -
+PWM motor speed controller, serial communication interface.

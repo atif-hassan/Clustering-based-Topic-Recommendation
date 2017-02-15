@@ -1,0 +1,27 @@
+Variable distance- parallel plate type, Variable area- parallel plate,
+serrated plate/teeth type and cylindrical type, variable dielectric constant type:
+calculation of sensitivities; proximity measurement
+Stretched Diaphragm type: microphones, response characteristics
+Introduction to MEMS-interfacing non-electronics world to electronics
+Mechanical and Electrical properties of MEMS materials
+Integrated-circuits based microfabrication technology
+Surface micromachining
+Bulk micromachining
+Process integration of MEMS with CMOS electronics
+Microstructural elements
+Sensors
+Capacitive pressure sensors
+Piezoelectric devices
+Chemical sensors
+Actuators
+Electrostatic actuators
+Thermal actuators
+Magnetic actuators
+Mechanical resonators & filters
+MEMS for use in biomedical world
+Micro-fluidic dynamics & Drug delivery devices
+Implantable ultrasound system
+MEMS DNA analysis system
+Microsurgical tools
+Lab-on-a-chip
+Interface circuits for MEMS Microsystems

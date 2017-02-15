@@ -1,0 +1,10 @@
+AUTOMATA AND TEMPORAL LOGICS :
+Automata on finite words model checking regular properties automata on infinite words Buchi automata Linear Temporal Logic (LTL) automata based LTL model checking Computational Tree Logic (CTL) CTL model checking CTL* model checking.
+TIMED AND PROBABILISTIC TREE LOGICS :
+Timed automata timed computational tree logic (TCTL) TCTL model checking probabilistic systems probabilistic computational tree logic (PCTL) PCTL model checking PCTL* Markov decision processes
+VERIFYING DETERMINISTIC AND RECURSIVE PROGRAMS :
+Introduction to program verification verification of “while” programs partial and total correctness verification of recursive programs. binary search verifying recursive programs with parameters
+VERIFYING OBJECT-ORIENTED AND PARALLEL PROGRAMS :
+Partial and total correctness of object-oriented programs. Insertion in linked lists verification of disjoint parallel programs verifying programs with shared variables. parallel zero search. verification of synchronization. the mutual exclusion problem
+VERIFYING NON-DETERMINISTIC AND DISTRIBUTED PROGRAMS :
+Introduction to non-deterministic programs. partial and total correctness of non-deterministic programs. The Welfare Crook Problem syntax and semantics of distributed programs verification of distributed programs. A Transmission Problem introduction to fairness

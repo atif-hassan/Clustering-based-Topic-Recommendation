@@ -1,0 +1,58 @@
+Electromechanical Energy Conversion Principle, Singly Excited Magnetic
+System and Doubly Excited Magnetic system. Physical concept of torque
+production; Electromagnetic torque and Reluctance torque.
+Concept of General terms pertaining to Rotating Machines: Electrical &
+Mechanical degree, Pole pitch, Coil, Generated EMF in full pitched coil,
+Generated EMF in a short pitched coil, EMF polygon,
+Distribution factor, Pitch factor. MMF produced by Distributed Windings, MMF
+of a coil, MMF of single phase distributed Winding, MMF waveform of
+Commutator machines.
+DC Machines:
+EMF generated in the armature. Methods of Excitation, Armature reaction & its
+effect in the performance, Methods of decreasing the effects of Armature
+reaction, Effect of Brush shift.
+Commutation process, Resistance commutation, Delayed commutation, Voltage
+commutation, Improvement of Commutation.
+Operating Characteristics of DC Generators: Separately Excited generators,
+Shunt Generators, Series Generators and Compound Generators.
+Torque equation of D.C motor, Operating Characteristics of Shunt, Series &
+Compound motors.
+Losses and efficiency of DC machines, Hopkinson’s and Swinburne’s test.
+D.C Machine application: Generator application, Motor application
+3-Phase Induction machine:
+Induction motor as a Transformer, Flux and MMF phasors in Induction motors,
+Equivalent circuit, Performance equations, Induction motor phasor diagram
+Toque-slip characteristic, Power slip characteristic, Determination of equivalent
+circuit parameters.
+Methods of starting of squirrel Cage and Wound rotor Motors.
+Speed control of Induction motor
+Polarity Test, Application of Polyphase Induction motor.
+3-Phase Transformer:
+Determination of polarity and connections (star/star, star/delta, delta/star,
+star/zigzag, delta/zigzag, open delta), Phasor groups.
+Effect of unbalanced loading, Production of Harmonics in Transformer and its
+suppression,
+3 phase to 2 phase transformation, Scott connection, 3 phase to 6 phase
+connections, Double star and Double delta,
+3 winding transformer: Parameter estimation, application,
+Parallel operation of Transformers, Introduction to Tap changing transformer and
+its function.
+Special Transformers: Potential transformer, Current transformer, Pulse
+transformer, Audio frequency transformer, Grounding transformer, Pulse
+transformer
+Synchronous Machines: Introduction, Voltage and torque equations in machine variables, Voltage and Torque Equations in
+Arbitrary reference Frame Variables, Voltage and Torque Equations in Rotor Reference Frame Variables, Torque Equations in
+Substitute variables, Analysis of steady state operation, Dynamic Performance during a sudden change in Input torque,
+Linearized model, Eigen values and small displacement stability, Reduced order equations and dynamics.
+Stepper Motor: Introduction, Types, Hybrid stepper motor- construction, principle of operation, two phases energized at a time,
+conditions for operation, different configurations, VR Stepper motor- single stack and multi stack, Drive systems and circuit for
+open loop and Closed loop control of stepping motor. Dynamic characteristics. Single phase stepper Motor, Expression of
+voltage , current and torque for stepper motor and criteria for synchronization.
+ Switched Reluctance Motor: Constructional features, principle of operation, Design Aspects and profile of the SRM, Torque
+equation, Power converters and rotor sensing mechanism, expression of torque and torque-speed characteristics,
+Permanent Magnet Materials: Permanent magnet materials, properties, minor hysteresis loop and recoil line, equivalent
+circuit, stator frames with permanent magnets,
+Brushless DC Motor : Construction, operation, sensing and switching logic scheme, Drive and power circuit, Theoritical
+analysis and performance prediction, transient Analysis.
+Linear Induction Motor: Construction and principle of operation of Linear Induction Motor, Approximate calculation of the
+force on rotor

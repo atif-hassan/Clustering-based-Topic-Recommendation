@@ -1,0 +1,31 @@
+Software Engineering Paradigms. Software Development process models. Project & Process. Project management. Process & Project metrics. Object Oriented concepts & Principles.
+Software prototyping Software project planning Scope Resources Software
+Estimation Empirical Estimation Models-Planning-Risk Management Software
+Project Scheduling Object Oriented Estimation & Scheduling.
+Analysis Modeling Data Modeling Functional Modeling & Information Flow- Behavioral Modeling-Structured Analysis. Object Oriented Analysis. Domain
+Analysis-Object Oriented Analysis process. Object Relationship Model Object Behavior Model. Design Concepts & Principles . Design Process - Design
+Concepts - Modular Design –Design Effective Modularity - Introduction to
+Software Architecture - Data Design – Transform Mapping – Transaction Mapping – OOD - Design System design process- Object design process -Design Patterns.
+Top-Down , Bottom-Up , object oriented product Implementation & Integration.
+Software Testing methods-White Box, Basis Path-Control Structure –Black Box- Unit Testing- Integration testing-Validation & System testing. Testing OOA & OOD
+models-Object oriented testing strategies.
+Maintenance process-System documentation-program evolution dynamics- Maintenance costs- Maintainability measurement
+Software Engineering-Software Process- Generic process model-Prescriptive
+process model-specialized, unified process-Agile development-Agile Process- Extreme Programming- Other agile Process models-Software engineering
+Knowledge-core Principles-Principles that guide each framework Activity.
+70 SE-Engg&Tech-SRM-2013
+Requirements Engineering-Establishing the Groundwork-Eliciting Requirements- Developing use cases-Building the requirements model-Negotiating, validating
+Requirements-Requirements Analysis-Requirements Modeling Strategies.
+MODELING WITH UML: Modeling Concepts and Diagrams - Use Case Diagrams
+- Class Diagrams - Interaction Diagrams - State chart Diagrams - Activity
+Diagrams - Package Diagrams - Component Diagrams – Deployment Diagrams - Diagram Organization- Diagram Extensions. Design Process- Design concepts:
+Abstraction, Architecture, patterns, Separation of Concerns, Modularity,
+Information Hiding, Functional Independence, Refinement, Aspects, Refactoring,
+Object Oriented Design Concepts, Design Classes- Design Model: Data,
+Architectural, Interface, Component, Deployment Level Design Elements .
+Structured coding Techniques-Coding Styles-Standards and Guidelines- Documentation Guidelines-Modern Programming Language Features: Type
+checking-User defined data types-Data Abstraction-Exception Handling- Concurrency Mechanism.
+TESTING: Software Quality- Software Quality Dilemma- Achieving Software
+Quality- Testing: Strategic Approach to software Testing- Strategic Issues- Testing: Strategies for Conventional Software, Object oriented software, Web
+Apps-Validating Testing- System Testing- Art of Debugging.
+MAINTENANCE: Software Maintenance-Software Supportability- Reengineering- Business Process Reengineering- Software Reengineering- Reverse Engineering- Restructuring- Forward Engineering- Economics of Reengineering

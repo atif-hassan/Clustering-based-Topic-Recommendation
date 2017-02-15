@@ -1,0 +1,10 @@
+Brief review of mathematical logic: representations, propositional, predicate
+logic, semantics.
+Representing mathematical knowledge using logic.
+Proof and correctness: formalization of proof, inference rules and resolution,
+unification, equational reasoning, combinatorial explosion, search algorithms.
+Guidance techniques: rewrite rules, human proofs, decision procedures, metalevel
+inference.
+Inductive theorem proving, heuristic guidance, rippling, proof planning.
+Applied uses of automated reasoning: diagrammatic reasoning, ontology,
+machine creativity.

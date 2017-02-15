@@ -1,0 +1,37 @@
+The Turing test.
+Regular Expressions :
+Chomsky hierarchy, regular languages, and their limitations. Finite-state automata. Practical regular expressions for finding and counting language phenomena. A little morphology. In class demonstrations of exploring a large corpus with regex tools. Slides.
+Programming in Python :
+An introduction to programming in Python. Why Python? Variables, numbers, strings, arrays, dictionaries, conditionals, iteration. The NLTK (Natural Language Toolkit), with demonstrations. Slides.	Refer to online programming resources, and Learning Python, at your own pace.
+String Edit Distance and Alignment 
+Key algorithmic tool: dynamic programming, first a simple example, then its use in optimal alignment of sequences. String edit operations, edit distance, and examples of use in spelling correction, and machine translation.
+Context Free Grammars :
+Constituency, CFG definition, use and limitations. Chomsky Normal Form. Top-down parsing, bottom-up parsing, and the problems with each. The desirability of combining evidence from both directions. Non-probabilistic Parsing :
+Efficient CFG parsing with CYK, another dynamic programming algorithm. Also, perhaps, the Earley parser. Designing a little grammar, and parsing with it on some test data.Probability :
+Introduction to probability theory--the backbone of modern natural language processing. Events, and counting. Joint and conditonal probability, marginals, independence, Bayes rule, combining evidence. Examples of applications in natural language.
+Information Theory :
+What is information? Measuring it in bits. The "noisy channel model." The "Shannon game"--motivated by language! Entropy, cross-entropy, information gain. Its application to some language phenomena.
+Language modeling and Naive Bayes :
+Probabilistic language modeling and its applications. Markov models. N-grams. Estimating the probability of a word, and smoothing. Generative models of language. Their application to building an automatically-trained email spam filter, and automatically determining the language (English, French, German, Dutch, Finnish, Klingon?).
+Part of Speech Tagging and Hidden Markov Models 
+The concept of parts-of-speech, examples, usage. The Penn Treebank and Brown Corpus. Probabilistic (weighted) finite state automata. Hidden Markov models (HMMs), definition and use.
+Viterbi Algorithm for Finding Most Likely HMM Path :
+Dynamic programming with Hidden Markov Models, and its use for part-of-speech tagging, Chinese word segmentation, prosody, information extraction, etc. 
+Probabilistic Context Free Grammars 
+Weighted context free grammars. Weighted CYK. Pruning and beam search. 
+Parsing with PCFGs :
+A treebank and what it takes to create one. The probabilistic version of CYK. Also: How do humans parse? Experiments with eye-tracking. Modern parsers.
+Maximum Entropy Classifiers :
+The maximum entropy principle, and its relation to maximum likelihood. The need in NLP to integrate many pieces of weak evidence. Maximum entropy classifiers and their application to document classification, sentence segmentation, and other language tasks.
+Maximum Entropy Markov Models & Conditional Random Fields :
+Part-of-speech tagging, noun-phrase segmentation and information extraction models that combine maximum entropy and finite-state machines. State-of-the-art models for NLP
+Lexical Semantics 
+Dirichlet Multinomial Distributions
+Mathematics of Multinomial and Dirichlet distributions, Dirichlet as a smoothing for multinomials.
+Machine Translation
+Unsupervised Language Discovery :
+Automatically discovering verb subcategorization.
+Topic Models and Language in Social Networks 
+Topic models. Language modeling integrated into social network analysis.
+Information Extraction & Reference Resolution :
+Building a database of person & company relations from 10 years of New York Times. Building a database of job openings from 70k company Web pages. Various methods, including HMMs. Models of anaphora resolution. Machine learning methods for coreference. Slides1 Slides2
