@@ -1,5 +1,5 @@
 # Topic Recommendation
-IIT Kgp Winter Internship
+Winter Internship at the Indian Institute of Technology, Kharagpur
 
 # ABSTRACT:
 During my internship, I worked on a clustering based recommendation system which was originally used to recommend k topics from a given set of n topics that were put up for display as the varied research areas on offering by IIT Kharagpur for each of their courses. Instead of using the traditional K-Means clustering algorithm which has the pitfalls of randomly choosing initial clusters while being limited to numeric data only and also requiring a certain number of iterations to achieve good results, I used a vector based approach for fixed initial cluster center initialization which allows for repeatable clustering results whilst working with string data and requiring only one iteration to produce the desired final clusters. This system can be used for recommending k subjects, their sub topics or even be extended for any other object, based on the underlying k clusters.
