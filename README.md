@@ -1,4 +1,4 @@
-# Topic Recommendation
+# Clustering based Topic Recommendation
 Winter Internship at the Indian Institute of Technology, Kharagpur
 
 # ABSTRACT:
